@@ -4,7 +4,7 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 4px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
@@ -50,6 +50,7 @@
   -ms-flex-item-align: center;
   align-self: center;
   font-weight: bold;
+  font-size: 2rem;
   z-index: 20;
 }
 
