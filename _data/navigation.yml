@@ -15,7 +15,7 @@ docs:
   - title: Projects
     children:
       - title: "Project One"
-        url: /project1/
+        url: /projects/project1/
 
 
   - title: Customization
