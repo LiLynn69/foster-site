@@ -13,25 +13,12 @@ main:
 
 docs:
   - title: Projects
+    image: /assets/img/natefakelogo.png
+    image_alt: "fake image"
     children:
       - title: "Project One"
         url: /projects/project1/
+      - title: "Project two"
+        url: /projects/project1/
 
 
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-
-
-  - title: Content
-    children:
-      - title: "News"
-        url: /news/
-
-  - title: Stuff
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
