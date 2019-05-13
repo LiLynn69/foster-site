@@ -12,7 +12,7 @@ main:
     url: /retreats/
 
 docs:
-  - title: Projects
+  - title: "Projects"
     image: /assets/img/natefakelogo.png
     image_alt: "fake image"
     children:
