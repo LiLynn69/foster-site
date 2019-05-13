@@ -15,6 +15,7 @@ docs:
   - title: "Projects"
     image: /assets/img/natefakelogo.png
     image_alt: "fake image"
+    text: "Something about these links"
     children:
       - title: "Project One"
         url: /projects/project1/
