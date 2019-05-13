@@ -5,7 +5,7 @@ main:
   - title: "Members"
     url: /members/
   - title: "News"
-    url: /year-archive/
+    url: /news/
   - title: "Events"
     url: /collection-archive/
   - title: "Retreats"
