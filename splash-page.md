@@ -1,6 +1,6 @@
 ---
 title: "Foster Group Mission"
-layout: splash
+layout: home
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
