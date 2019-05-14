@@ -1,9 +1,10 @@
 ---
+layout: posts
 title: "sample blog item"
 tags:
   - fixed  
 ---
 
-## Another news item
+## Another news item ##
 fajsdkl; klsafj kl dsfjk; fsajkl jfaskl; j;klafsd ljk
 sfad kjl;fsd alk sdfjakl jklfs; lk fsdjkl jafks; 
