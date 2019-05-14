@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Markus Spiske**](https://unsplash.com/)"
 excerpt: "Nate is pretty darn smart. He could probably build this in an hour. fdjsal;j lkasfjd; jkfsa jfkl jfkdsalkj lfsdak jlkf sdajlk fsdjflk jdfslkjklfss kljdfs lkj lkfsdj lkjfs adlkj fsdklj lkfjas."
 intro:
-  - excerpt: 'Mission Statement: Nate is pretty darn smart. He could probably build this in an hour. Centered with `type="center"`'
+  - excerpt: 'Or Mission Statement: Nate is pretty darn smart. He could probably build this in an hour. Centered with `type="center"`'
 feature_row:
   - image_path:
     alt: "placeholder image 1"
