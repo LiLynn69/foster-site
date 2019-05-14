@@ -5,7 +5,7 @@ permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#5b6584"
-  overlay_filter: "0.0"
+  overlay_filter: "0.1"
   overlay_image: /assets/img/natebanner.jpg
   actions:
     - label: "The Science"
