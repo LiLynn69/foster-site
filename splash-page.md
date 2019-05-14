@@ -5,8 +5,8 @@ permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#5b6584"
-  overlay_filter: "0.3"
-  overlay_image: /assets/img/natebanner.jpg
+  overlay_filter: "0.0"
+  overlay_image: /assets/img/banner.jpg
   actions:
     - label: "The Science"
       url: "https://lilynn69.github.io/foster-site/"
