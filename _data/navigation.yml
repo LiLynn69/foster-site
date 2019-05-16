@@ -1,15 +1,20 @@
 # main links
 main:
-  - title: "Projects"
-    url: /projects/
-  - title: "Members"
-    url: /members/
   - title: "News"
     url: /news/
+  - title: "Members"
+    url: /members/
+  - title: "Projects"
+    url: /projects/
   - title: "Events"
     url: /collection-archive/
-  - title: "Retreats"
-    url: /retreats/
+    children:
+      - title: "Retreats"
+        url: /retreats/
+      - title: "Workshops"
+        url: /workshops/
+      - title: "Seminars"
+        url: /seminars/
 
 docs:
   - title: "Projects"
