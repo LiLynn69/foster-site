@@ -7,7 +7,7 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Events"
-     url: /events/
+    url: /events/
     
 docs:
   - title: "Projects"
@@ -20,7 +20,7 @@ docs:
       - title: "Project two"
         url: /projects/project1/
   - title: "Stuff we do"     
-        children:
+    children:
       - title: "Retreats"
         url: /retreats/
       - title: "Workshops"
