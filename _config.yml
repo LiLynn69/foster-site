@@ -272,13 +272,6 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-collections:
-  tags:
-    output: true
-    permalink: /tags/:name/ # optional
-  categories:
-    output: true
-    permalink: /:name/ # optional
 
 # HTML Compression
 # - http://jch.penibelst.de/
