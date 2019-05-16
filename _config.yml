@@ -256,19 +256,20 @@ category_archive:
   type: liquid
   path: /categories/
 tag_archive:
-  type: liquid
+# type: liquid
+  type: jekyll-archives
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
+ jekyll-archives:
+   enabled:
 #     - categories
-#     - tags
-#   layouts:
+    - tags
+   layouts:
 #     category: archive-taxonomy
-#     tag: archive-taxonomy
+     tag: archive-taxonomy
 #   permalinks:
 #     category: /categories/:name/
-#     tag: /tags/:name/
+     tag: /tags/:name/
 
 
 # HTML Compression
