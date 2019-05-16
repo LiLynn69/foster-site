@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: posts
 title: "Recent News"
 permalink: /news/
 header:
