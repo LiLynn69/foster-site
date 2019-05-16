@@ -263,10 +263,10 @@ tag_archive:
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
-   enabled:
+  enabled:
     - categories
     - tags
-   layouts:
+  layouts:
     category: archive-taxonomy
     tag: archive-taxonomy
   permalinks:
