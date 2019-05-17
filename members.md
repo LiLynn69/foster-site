@@ -31,3 +31,7 @@ feature_row:
           title: "Member 5"
           excerpt: "Member 5 jfdaskjkl;fds kls djfk kjfdaslk jlfksad jkl jfsakl jlkfds jlk; jfaskdl; "
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
