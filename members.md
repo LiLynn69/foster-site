@@ -32,7 +32,7 @@ feature_row:
           excerpt: "Member 5 jfdaskjkl;fds kls djfk kjfdaslk jlfksad jkl jfsakl jlkfds jlk; jfaskdl; "
 ---
   
-  ## Meet the members of an awesome and brilliant group! ##
+  Meet the members of an awesome and brilliant group!
   We are dedicated to riding our bike everyday. Our PI is happiest when he can ride.
   
       {% include feature_row id="intro" type="center" %}
