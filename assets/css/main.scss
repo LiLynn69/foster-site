@@ -6,3 +6,9 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dirt' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.feature__wrapper {
+    clear: both;
+    margin-bottom: 2em;
+    border-bottom: 0px solid #d1d0ce;
+}
