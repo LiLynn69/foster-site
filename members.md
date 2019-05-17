@@ -34,6 +34,7 @@ feature_row:
   
   ## Meet the members of an awesome and brilliant group! ##
   We are dedicated to riding our bike everyday. Our PI is happiest when he can ride.
+  
       {% include feature_row id="intro" type="center" %}
 
       {% include feature_row %}
