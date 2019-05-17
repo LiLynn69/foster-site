@@ -19,6 +19,8 @@ docs:
         url: /projects/project1/
       - title: "Project two"
         url: /projects/project1/
+        
+members:
   - title: "Stuff we do"     
     children:
       - title: "Retreats"
