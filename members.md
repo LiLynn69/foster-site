@@ -9,8 +9,6 @@ header:
   overlay_color: "#050505"
   overlay_filter: "0.2"
   overlay_image: /assets/img/nate.jpg
-intro:
-    - excerpt: 'Something about the group'
 feature_row:
         - image_path: assets/img/member.png
           alt: "Nate Foster"
@@ -33,7 +31,9 @@ feature_row:
           title: "Member 5"
           excerpt: "Member 5 jfdaskjkl;fds kls djfk kjfdaslk jlfksad jkl jfsakl jlkfds jlk; jfaskdl; "
 ---
-
+  
+  ## Meet the members of an awesome and brilliant group! ##
+  We are dedicated to riding our bike everyday. Our PI is happiest when he can ride.
       {% include feature_row id="intro" type="center" %}
 
       {% include feature_row %}
