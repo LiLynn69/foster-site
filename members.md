@@ -3,6 +3,8 @@ title: "Members"
 layout: single
 classes: wide
 permalink: /members/
+sidebar:
+  nav: "members"
 header:
   overlay_color: "#050505"
   overlay_filter: "0.2"
