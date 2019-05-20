@@ -32,3 +32,11 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% for post in site.posts limit:2  %}
+{% if forloop.last %}
+  <li>
+    <a href="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </li>
+{% endif %}
+{% endfor %}
