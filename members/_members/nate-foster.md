@@ -1,1 +1,3 @@
-Nate Foster
+---
+title: "Nate Foster"
+---
