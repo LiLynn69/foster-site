@@ -14,3 +14,5 @@ header:
 ---
 
 ## Meet Nates' Awesome Group 
+
+{% assign entries = site[include.collection] %}
