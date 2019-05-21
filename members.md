@@ -2,7 +2,7 @@
 title: "Members"
 layout: single
 classes: wide
-permalink: /members/
+permalink: /members1/
 sidebar:
   nav: "members"
 header:
