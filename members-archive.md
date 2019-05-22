@@ -2,7 +2,7 @@
 title: Members
 layout: collection
 permalink: /members/
-collection: portfolio
+collection: members
 entries_layout: grid
 classes: wide
 sidebar:
