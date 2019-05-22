@@ -15,10 +15,10 @@ header:
 
 ## Meet Nates' Awesome Group 
 
-{% for member in site.members %}
-  <div class="member">
-    <h2><img src="{{ member.image_path }}" alt="{{ member.title }}" />{{ member.title }}</h2>
-    {{ member.content }}
+{% for members in site.members %}
+  <div class="members">
+    <h2><img src="{{ members.image_path }}" alt="{{ members.title }}" />{{ members.title }}</h2>
+    {{ members.content }}
   </div>
 {% endfor %}
   
