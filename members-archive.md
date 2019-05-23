@@ -17,7 +17,7 @@ header:
 
 {% for members in site.members %}
   <div class="members">
-    <h2><img src="{{ members.image_path }}" alt="{{ members.title }}" />{{ members.title }}</h2>
+    <h2><img src="{{ members.image_path }}" alt="{{ members.alt }}" />{{ members.title }}</h2>
     {{ members.content }}
   </div>
 {% endfor %}
