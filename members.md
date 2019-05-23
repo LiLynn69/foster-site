@@ -4,7 +4,7 @@ layout: members
 permalink: /members/
 collection: members
 entries_layout: grid
-classes: wide
+classes: wide, members
 sidebar:
   nav: "members"
 header:
