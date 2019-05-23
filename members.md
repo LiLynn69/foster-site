@@ -1,6 +1,6 @@
 ---
 title: Members
-layout: members
+layout: collections
 permalink: /members/
 collection: members
 entries_layout: grid
@@ -13,11 +13,7 @@ header:
   overlay_image: /assets/img/nate.jpg
 ---
 
-{% for members in site.members %}
-	<div class="members">
-		<h2><a href="{{ members.url }}">{{ members.title }}</a></h2>
-	</div>
-{% endfor %}
+## Nates Group Members
 
 
   
