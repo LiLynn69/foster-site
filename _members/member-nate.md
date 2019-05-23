@@ -1,5 +1,6 @@
 ---
 title: "Member of Nate"
+layout: members
 image_path: /assets/img/member.png
 alt: "placeholder image 1"
 ---
