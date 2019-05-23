@@ -1,6 +1,6 @@
 ---
 title: "Nate Foster"
-image_path: assets/img/member.png
+image_path: /assets/img/member.png
 alt: "placeholder image 1"
 ---
 
