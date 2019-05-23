@@ -13,7 +13,11 @@ header:
   overlay_image: /assets/img/nate.jpg
 ---
 
-## Meet Nates' Awesome Group 
+{% for members in site.members %}
+	<div class="members">
+		<h2><a href="{{ members.url }}">{{ members.title }}</a></h2>
+	</div>
+{% endfor %}
 
 
   
