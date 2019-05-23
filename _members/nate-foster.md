@@ -1,5 +1,6 @@
 ---
 title: "Nate Foster"
+layout: members
 image_path: /assets/img/member.png
 alt: "placeholder image 1"
 ---
