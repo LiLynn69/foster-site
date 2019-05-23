@@ -303,6 +303,9 @@ defaults:
       layout: single
 
 collections:
-  members:
-    output: true
-    permalink: /members/:path/
+  - members
+  - events
+  - retreats
+  - workshops
+  - seminars
+    
