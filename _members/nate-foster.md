@@ -1,7 +1,7 @@
 ---
 title: "Nate Foster"
 layout: single
-image_path: /assets/img/member.png
+image_path: https://github.com/LiLynn69/foster-site/assets/img/member.png
 alt: "placeholder image 1"
 ---
 
