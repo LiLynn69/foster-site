@@ -4,7 +4,7 @@ layout: collection
 permalink: /members/
 collection: members
 entries_layout: grid
-classes: wide, members
+classes: wide members
 sidebar:
   nav: "members"
 header:
@@ -12,8 +12,14 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/img/nate.jpg
 ---
-
 ## Nates Group Members
+
+{% for member in site.members %}
+  <div class="member">
+  <h2><img src="{{ member.image_path }}" alt="{{ member.title }}" />{{ member.title }}</h2>
+  </div>
+{% endfor %}
+
 
 
   
