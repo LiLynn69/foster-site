@@ -305,7 +305,7 @@ defaults:
 collections:
   members:
     output:true
-    permalink: /:members/:path/
+    permalink: /:collection/:path/
     
 defaults:
   # _members
