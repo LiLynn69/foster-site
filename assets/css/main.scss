@@ -30,3 +30,10 @@
   left: -18px;
   top: 15px;
 }
+.grid__item {
+    .archive__item-teaser {
+    @include breakpoint($small) {
+      max-height: 200px;
+    }
+   }
+  }
