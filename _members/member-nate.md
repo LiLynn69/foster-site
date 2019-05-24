@@ -1,7 +1,7 @@
 ---
 title: "Member of Nate"
 layout: member
-image_path: /assets/img/member.png
+image_path: "/assets/img/member.png"
 alt: "placeholder image 1"
 ---
 ![placeholder](/assets/img/member.png)
