@@ -1,10 +1,10 @@
 ---
-title: Members
-layout: collection
+title: Nates Group Members
+layout: collections
 permalink: /members/
 collection: members
 entries_layout: grid
-classes: wide members
+classes: wide
 sidebar:
   nav: "members"
 header:
@@ -12,13 +12,15 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/img/nate.jpg
 ---
-## Nates Group Members
+
 
 {% for member in site.members %}
   <div class="member">
-  <h2><img src="{{ member.image_path }}" alt="{{ member.title }}" />{{ member.title }}</h2>
+    <h2><img src="{{ member.image_path }}" alt="{{ member.title }}" />{{ member.title }}</h2>
+    {{ member.content }}
   </div>
 {% endfor %}
+
 
 
 
