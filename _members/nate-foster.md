@@ -1,5 +1,9 @@
 ---
+title: "Nate's profile"
+excerpt: "Something about this person."
+header:
+  image: /assets/img/member.png
+  teaser: /assets/img/member.png
 ---
-![member image]({{ "/assets/img/member.png" | relative_url }})
 
 fdasjkl jkafs jk;lf ajkfs djlksdf jkl jfadslk jafsdlk jlsadf; jlkafsd jlkfsd ljkafs klafsdj l;afsdkj ladfksj afdslkj fasdlk;j asdflkj afdslkj fdsalk jlafsdkj l;kdfsaj lkafsdj ladfksjalsdfkjadflsjk
