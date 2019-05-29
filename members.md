@@ -12,7 +12,7 @@ header:
   overlay_image: /assets/img/nate.jpg
 ---
 
-
+{{ content }}
 
 
 
