@@ -5,7 +5,6 @@ permalink: /members/
 collection: members
 entries_layout: grid
 classes: wide
-excerpt: "Something about this person."
 sort_by: title
 header:
   overlay_color: "#050505"
