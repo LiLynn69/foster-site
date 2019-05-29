@@ -5,6 +5,7 @@ permalink: /members/
 collection: members
 entries_layout: grid
 classes: wide
+sort_by: title
 header:
   overlay_color: "#050505"
   overlay_filter: "0.2"
