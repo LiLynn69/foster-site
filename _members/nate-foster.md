@@ -1,6 +1,5 @@
 ---
 title: "Nate's profile"
-excerpt: "Something about this person."
 header:
   image: /assets/img/member.png
   teaser: /assets/img/member.png
