@@ -304,6 +304,7 @@ defaults:
 
 collections:
   members:
+    output: true
 
     
 defaults:
