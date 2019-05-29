@@ -11,8 +11,10 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/img/nate.jpg
 ---
-
-{% assign entries = site[include.collections.members] %}
+{% for members in site.members %}
+  <h2>{{ members.name }} - {{ members.position }}</h2>
+  <p>{{ members.content | markdownify }}</p>
+{% endfor %}
 
 
 
