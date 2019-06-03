@@ -46,3 +46,13 @@
     padding-bottom: 0.5em;
     border-bottom: 0px solid #d1d0ce!important;
 }
+img[src*='#left'] {
+    float: left;
+}
+img[src*='#right'] {
+    float: right;
+}
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
