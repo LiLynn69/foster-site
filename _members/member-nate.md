@@ -7,8 +7,6 @@ header:
   teaser: /assets/img/member.png
 ---
 
-![member name](/assets/img/member.png) 
-
-## Title of Member
+'![member name](https://github.com/LiLynn69/foster-site/assets/img/member.png) ## Title of Member'
 
 fdasjkl jkafs jk;lf ajkfs djlksdf jkl jfadslk jafsdlk jlsadf; jlkafsd jlkfsd ljkafs klafsdj l;afsdkj ladfksj afdslkj fasdlk;j asdflkj afdslkj fdsalk jlafsdkj l;kdfsaj lkafsdj ladfksjalsdfkjadflsjk
