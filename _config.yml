@@ -307,13 +307,17 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-    
+category: 
+  - "news"
+  - "blog"
+  - "events"
+
 defaults:
   # _members
   - scope:
       path: ""
       type: members
     values:
-      layout: single
+      layout: member
       author_profile: false
       share: true
