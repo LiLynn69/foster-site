@@ -7,7 +7,7 @@ header:
   teaser: /assets/img/member.png
 ---
 
-![my image](../../assets/img/member.png#left)
+![left-aligned-image](../../assets/img/member.png){: .align-left} 
 ## PI of group
 
 fdasjkl jkafs jk;lf ajkfs djlksdf jkl jfadslk jafsdlk jlsadf; jlkafsd jlkfsd ljkafs klafsdj l;afsdkj ladfksj afdslkj fasdlk;j asdflkj afdslkj fdsalk jlafsdkj l;kdfsaj lkafsdj ladfksjalsdfkjadflsjk
