@@ -48,9 +48,13 @@
 }
 img[src*='#left'] {
     float: left;
+    padding-right: 20px;
+    padding-bottom: 5px;
 }
 img[src*='#right'] {
     float: right;
+    padding-left: 20px;
+    padding-bottom: 5px;
 }
 img[src*='#center'] {
     display: block;
