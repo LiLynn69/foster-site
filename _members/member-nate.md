@@ -7,7 +7,7 @@ header:
   teaser: /assets/img/member.png
 ---
 
-![left-aligned-image](/assets/img/member.png){: .align-left}
+<img src="/assets/img/member.png" class="align-left" alt="">
 
 ## Title of Member
 
