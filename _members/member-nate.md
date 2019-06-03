@@ -1,7 +1,8 @@
 ---
 title: "Nate's Member"
 subtitle: "focus on code"
-excerpt: "Something about this person."
+excerpt: "Member Title
+          Focus of Research"
 header:
   image: /assets/img/member.png
   teaser: /assets/img/member.png
