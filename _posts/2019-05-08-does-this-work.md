@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "sample blog item"
+title: "sample news item"
+category: ["news"]
 tags:
   - fixed  
 ---
