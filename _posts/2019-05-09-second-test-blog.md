@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "Second test of the blog"
+title: "Test of the blog"
+category: ["blog"]
 tags:
   - broken
   - fixed
