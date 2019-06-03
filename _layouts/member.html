@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{% if page.header.overlay_color or page.header.overlay_image or page.member.image %}
-  {% include page__member.html %}
+{% if page.header.overlay_color or page.header.overlay_image or page.member_image %}
+  {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
@@ -26,7 +26,7 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          {% if page.member.image %}{% endif %}
+          {{ page.member_image }}
           {% if page.title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
           {% if page.read_time %}
             <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
