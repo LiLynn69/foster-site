@@ -52,3 +52,12 @@
   height: auto;
   -ms-interpolation-mode: bicubic;*/
 }
+.page__member {
+  position: relative;
+  margin-bottom: 2em;
+  @include clearfix;
+  -webkit-animation: $intro-transition;
+  animation: $intro-transition;
+  -webkit-animation-delay: 0.25s;
+  animation-delay: 0.25s;
+}
