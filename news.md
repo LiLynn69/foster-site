@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: posts
 title: "Recent News"
 category: ["news"]
 permalink: /news/
