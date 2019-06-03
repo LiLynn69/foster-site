@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: "Recent News"
+category: ["news"]
 permalink: /news/
 header:
   overlay_color: "#5e616c"
