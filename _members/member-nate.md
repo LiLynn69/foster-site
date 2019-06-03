@@ -1,6 +1,6 @@
 ---
 title: "Nate's Member"
-subtitle: "focus on code"
+layout: member
 excerpt: "Member Focus of Research"
 header:
   image: /assets/img/member.png
