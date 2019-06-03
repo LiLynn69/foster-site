@@ -23,7 +23,7 @@
     background-color: #d1d0ce!important;
     border-bottom: none;
 }
-.member img {
+.member-img {
   width: 77px;
   border-radius: 68px;
   position: relative;
@@ -42,22 +42,4 @@
     }
   }
  }
-.page__member-image {
-  width: 77px;
-  border-radius: 68px;
-  position: relative;
-  left: -18px;
-  top: 15px;
-  /*width: 100%;
-  height: auto;
-  -ms-interpolation-mode: bicubic;*/
-}
-.page__member {
-  position: relative;
-  margin-bottom: 2em;
-  @include clearfix;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  -webkit-animation-delay: 0.25s;
-  animation-delay: 0.25s;
-}
+
