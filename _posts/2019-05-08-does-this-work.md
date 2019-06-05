@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "sample news item"
+meta:  jfsadlk jklsadf kljlkjdfsal kjlkfads jlkjf sadkl jfkdlsaj 
 category: ["news"]
 tags:
   - fixed  
