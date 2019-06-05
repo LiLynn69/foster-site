@@ -311,6 +311,8 @@ category:
   - "news"
   - "blog"
   - "events"
+  output: true
+    permalink: /:category/:path/
 
 defaults:
   # _members
