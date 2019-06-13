@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "sample news item"
-meta:  jfsadlk jklsadf kljlkjdfsal kjlkfads jlkjf sadkl jfkdlsaj 
+meta:  This is the meta. A short teaser for the news. 
 category: ["news"]
 tags:
   - fixed  
