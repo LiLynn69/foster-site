@@ -11,8 +11,4 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/img/nate.jpg
 ---
-  
-{% for member in site.smembers %}
-  <h2>{{ members.name }} - {{ members.position }}</h2>
-  <p>{{ members.content | markdownify }}</p>
-{% endfor %}
+
