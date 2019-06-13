@@ -316,3 +316,22 @@ defaults:
       layout: member
       author_profile: false
       share: true
+      
+defaults:
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: # true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      
+categories:
+  news:
+    output: true
+    permalink: /:category/:path/
+
