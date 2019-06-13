@@ -13,6 +13,6 @@ header:
 ---
   
 {% for member in site.smembers %}
-  <h2>{{ member.name }} - {{ member.position }}</h2>
-  <p>{{ member.content | markdownify }}</p>
+  <h2>{{ members.name }} - {{ members.position }}</h2>
+  <p>{{ members.content | markdownify }}</p>
 {% endfor %}
