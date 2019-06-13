@@ -17,8 +17,8 @@ docs:
     children:
       - title: "Project One"
         url: /projects/project1/
-      - title: "Project two"
-        url: /projects/project1/
+      - title: "Project Two"
+        url: /projects/project2/
         
 members:
   - title: "Stuff we do"     
