@@ -12,3 +12,7 @@ header:
   overlay_image: /assets/img/nate.jpg
 ---
   
+{% for member in site.smembers %}
+  <h2>{{ member.name }} - {{ member.position }}</h2>
+  <p>{{ member.content | markdownify }}</p>
+{% endfor %}
