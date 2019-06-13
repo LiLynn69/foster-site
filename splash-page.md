@@ -38,7 +38,7 @@ feature_row:
 {% if forloop.last %}
   <li>
     <a href="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    <p>{{ post.excerpt }}</p>
+    <br/>{{ post.excerpt }}
   </li>
 {% endif %}
 {% endfor %}
