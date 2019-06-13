@@ -317,6 +317,11 @@ defaults:
       author_profile: false
       share: true
       
+collections:
+  news:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _news
   - scope:
@@ -330,8 +335,5 @@ defaults:
       share: true
       related: true
       
-collections:
-  news:
-    output: true
-    permalink: /:category/:path/
+
 
