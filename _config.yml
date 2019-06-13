@@ -330,7 +330,7 @@ defaults:
       share: true
       related: true
       
-categories:
+collections:
   news:
     output: true
     permalink: /:category/:path/
