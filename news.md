@@ -9,7 +9,7 @@ header:
 <ul>
   {% for news in site.categories.news %}
     <li>
-      <span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a>
+      <span>{{ news.date | date_to_string }}</span> &nbsp; <a href="{{ news.url }}">{{ news.title }}</a>
       <p>{{news.meta}}</p>
     </li>
   {% endfor %}
