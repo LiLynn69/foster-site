@@ -34,11 +34,13 @@ feature_row:
 
 {% include feature_row %}
 
-{% for post in site.posts limit:4  %}
-{% if forloop.last %}
-  <li>
-    <a href="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    <br/>{{ post.excerpt }}
-  </li>
-{% endif %}
-{% endfor %}
+<h2>Latest Posts</h12>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
