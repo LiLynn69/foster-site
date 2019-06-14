@@ -34,7 +34,7 @@ feature_row:
 
 {% include feature_row %}
 
-<h2>Latest Posts</h12>
+<h2>Latest Posts</h2>
 
 <ul>
   {% for post in site.posts %}
