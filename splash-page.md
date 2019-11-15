@@ -12,8 +12,6 @@ header:
       url: "https://lilynn69.github.io/foster-site/"
   caption: "Photo credit: [**Markus Spiske**](https://unsplash.com/)"
 excerpt: "The Network Programming Initiative supports research on languages, algorithms, and tools for network programming, and facilitates closer interactions with partners in industry and government. For more details, read our [whitepaper].(/programs/npi-whitepaper.pdf)"
-intro:
-  - excerpt: 'Or Mission Statement: Nate is pretty darn smart. He could probably build this in an hour. Centered with `type="center"`'
 feature_row:
   - image_path:
     alt: "placeholder image 1"
@@ -28,9 +26,6 @@ feature_row:
     title: "Maybe Events"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
-* {% include video id="XsxDH4HcOWA" provider="youtube" %}
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
