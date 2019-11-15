@@ -1,5 +1,5 @@
 ---
-title: "Foster Group Mission"
+title: "Network Programming Initiative"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -11,7 +11,7 @@ header:
     - label: "The Science"
       url: "https://lilynn69.github.io/foster-site/"
   caption: "Photo credit: [**Markus Spiske**](https://unsplash.com/)"
-excerpt: "Nate is pretty darn smart. He could probably build this in an hour. fdjsal;j lkasfjd; jkfsa jfkl jfkdsalkj lfsdak jlkf sdajlk fsdjflk jdfslkjklfss kljdfs lkj lkfsdj lkjfs adlkj fsdklj lkfjas."
+excerpt: "The Network Programming Initiative supports research on languages, algorithms, and tools for network programming, and facilitates closer interactions with partners in industry and government. For more details, read our whitepaper."
 intro:
   - excerpt: 'Or Mission Statement: Nate is pretty darn smart. He could probably build this in an hour. Centered with `type="center"`'
 feature_row:
