@@ -1,5 +1,5 @@
 ---
-title: "Nate's profile"
+title: "Nate Foster"
 layout: member
 excerpt: "Something about Nate here to intice readers."
 header:
