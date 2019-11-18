@@ -42,6 +42,8 @@
 
     @include breakpoint($medium) {
       max-height: 200px;
+      margin-bottom: 2em;
+      margin-left: 4em;
     }
   }
  }
