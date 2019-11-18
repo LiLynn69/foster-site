@@ -1,6 +1,10 @@
 ---
 title: "Network Programming Initiative"
 layout: splash
+classes: 
+ - landing
+ - dark-theme
+ - wide
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
