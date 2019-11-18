@@ -4,7 +4,9 @@ layout: collection
 permalink: /members/
 collection: members
 entries_layout: grid
-classes: wide
+classes:
+ - landing
+ - wide
 sort_by: title
 header:
   overlay_color: "#050505"
