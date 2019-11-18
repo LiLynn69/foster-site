@@ -6,13 +6,8 @@ header:
   overlay_color: "#5b6584"
   overlay_filter: "0.0"
   overlay_image: /assets/img/ivy.jpg
-  actions:
-    - label: "whitepaper"
-      url: "https://lilynn69.github.io/foster-site/"
-excerpt: >
-  The Network Programming Initiative supports research on languages, algorithms, and tools for network programming, and facilitates closer interactions with partners in industry and government. For more details, read our whitepaper.
 intro: 
-  - excerpt: 'The Network Programming Initiative supports research on languages, algorithms, and tools for network programming, and facilitates closer interactions with partners in industry and government. For more details, read our whitepaper. Centered with `type="center"`'
+  - excerpt: 'The Network Programming Initiative supports research on languages, algorithms, and tools for network programming, and facilitates closer interactions with partners in industry and government. For more details, read our [whitepaper](/papers/npi-whitepaper.pdf).
 feature_row:
   - image_path: /assets/img/pexels-photo-1089438.jpg
     alt: "mother board"
