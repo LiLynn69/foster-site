@@ -25,7 +25,7 @@
 }
 .member-img {
   width: 77px;
-  border-radius: 68px;
+  border-radius: 120px;
   position: relative;
   left: -18px;
   top: 15px;
@@ -34,12 +34,12 @@
     .archive__item-teaser {
     @include breakpoint($small) {
       max-height: 300px;
-      border-radius: 25%;
+      border-radius: 0;
     }
         
     .grid__item {
     margin-bottom: 2em;
-    margin-left: 2em;
+    margin-left: 4em;
 }
 
     @include breakpoint($medium) {
@@ -85,7 +85,7 @@ padding: 4px;
 line-height: 1.42857143;
 background-color: #fff;
 border: 1px solid #ddd;
-border-radius: 4px;
+border-radius: 25px;
 -webkit-transition: all .2s ease-in-out;
 -o-transition: all .2s ease-in-out;
 transition: all .2s ease-in-out;
