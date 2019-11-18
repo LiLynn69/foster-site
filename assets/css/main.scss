@@ -34,8 +34,13 @@
     .archive__item-teaser {
     @include breakpoint($small) {
       max-height: 300px;
-      border-radius: 68px;
-    }    
+      border-radius: 25%;
+    }
+        
+    .grid__item {
+    margin-bottom: 2em;
+    margin-left: 2em;
+}
 
     @include breakpoint($medium) {
       max-height: 200px;
