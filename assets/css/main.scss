@@ -36,14 +36,12 @@
       max-height: 300px;
       border-radius: 0;
       margin-bottom: 2em;
-      margin-left: 4em;
     }
         
 
     @include breakpoint($medium) {
       max-height: 200px;
       margin-bottom: 2em;
-      margin-left: 4em;
     }
   }
  }
@@ -96,6 +94,6 @@ border-radius: 50%;
 .page__lead {
     font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     font-size: 1.25em;
-    margin-top: 20px
+    margin-top: 50px
 }
 
