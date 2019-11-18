@@ -5,11 +5,10 @@ permalink: /
 header:
   overlay_color: "#5b6584"
   overlay_filter: "0.0"
-  overlay_image: /assets/img/banner.jpg
+  overlay_image: /assets/img/ivy.jpg
   actions:
     - label: "whitepaper"
       url: "https://lilynn69.github.io/foster-site/"
-  caption: "Photo credit: [**Markus Spiske**](https://unsplash.com/)"
 excerpt: >
   The Network Programming Initiative supports research on languages, algorithms, and tools for network programming, and facilitates closer interactions with partners in industry and government. For more details, read our whitepaper.
 feature_row:
