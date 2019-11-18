@@ -29,11 +29,11 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/img/mm-free-feature.png
     alt: "100% free"
-    title: "100% free"
+    title: "People"
     excerpt: "Meet Our Research Team"
     url: "/members/"
     btn_class: "btn--primary"
-    btn_label: "The People"      
+    btn_label: "Our group"      
 ---
 
 {% include feature_row %}
