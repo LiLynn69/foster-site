@@ -11,7 +11,7 @@ header:
       url: "https://lilynn69.github.io/foster-site/"
 excerpt: >
   The Network Programming Initiative supports research on languages, algorithms, and tools for network programming, and facilitates closer interactions with partners in industry and government. For more details, read our whitepaper.
- intro: 
+intro: 
   - excerpt: 'The Network Programming Initiative supports research on languages, algorithms, and tools for network programming, and facilitates closer interactions with partners in industry and government. For more details, read our whitepaper. Centered with `type="center"`'
 feature_row:
   - image_path: /assets/img/pexels-photo-1089438.jpg
