@@ -29,6 +29,8 @@ feature_row:
 ---
 {% include feature_row id="intro" type="center" %}
 
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
+
 {% include feature_row %}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
