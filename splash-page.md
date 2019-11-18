@@ -7,34 +7,33 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/img/banner.jpg
   actions:
-    - label: "The Science"
+    - label: "whitepaper"
       url: "https://lilynn69.github.io/foster-site/"
   caption: "Photo credit: [**Markus Spiske**](https://unsplash.com/)"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.2">Latest release v4.17.2</a></small>
+  The Network Programming Initiative supports research on languages, algorithms, and tools for network programming, and facilitates closer interactions with partners in industry and government. For more details, read our whitepaper.
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/img/mm-customizable-feature.png
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "News"
+    excerpt: "Link to news could go here."
+    url: "/categories/news/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+    btn_label: "See more"
+  - image_path: /assets/img/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    title: "Projects"
+    excerpt: "We currently are working on four projects."
+    url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/img/mm-free-feature.png
     alt: "100% free"
     title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    excerpt: "Meet Our Research Team"
+    url: "/members/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "The People"      
 ---
 
 {% include feature_row %}
