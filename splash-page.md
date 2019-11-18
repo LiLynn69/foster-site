@@ -1,16 +1,13 @@
 ---
 title: "Network Programming Initiative"
 layout: splash
-classes: 
- - landing
- - dark-theme
- - wide
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#5b6584"
   overlay_filter: "0.0"
   overlay_image: /assets/img/banner.jpg
+  actions:
     - label: "The Science"
       url: "https://lilynn69.github.io/foster-site/"
   caption: "Photo credit: [**Markus Spiske**](https://unsplash.com/)"
@@ -31,8 +28,6 @@ feature_row:
     title: "Maybe Events"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
-
-{% include video id="XsxDH4HcOWA" provider="youtube" %}
 
 {% include feature_row id="intro" type="center" %}
 
