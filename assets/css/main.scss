@@ -35,12 +35,10 @@
     @include breakpoint($small) {
       max-height: 300px;
       border-radius: 0;
+      margin-bottom: 2em;
+      margin-left: 4em;
     }
         
-    .grid__item {
-    margin-bottom: 2em;
-    margin-left: 4em;
-}
 
     @include breakpoint($medium) {
       max-height: 200px;
