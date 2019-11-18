@@ -2,7 +2,6 @@
 title: "Network Programming Initiative"
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#5b6584"
   overlay_filter: "0.0"
@@ -11,32 +10,31 @@ header:
     - label: "The Science"
       url: "https://lilynn69.github.io/foster-site/"
   caption: "Photo credit: [**Markus Spiske**](https://unsplash.com/)"
-excerpt: "The Network Programming Initiative supports research on languages, algorithms, and tools for network programming, and facilitates closer interactions with partners in industry and government. For more details, read our [whitepaper](/papers/npi-whitepaper.pdf)".
-intro:
-  - excerpt: 'Or Mission Statement: Nate is pretty darn smart. He could probably build this in an hour. Centered with `type="center"`'	  
+excerpt: >
+  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.2">Latest release v4.17.2</a></small>
 feature_row:
-  - image_path:
-    alt: "placeholder image 1"
-    title: "Maybe News"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."    
-  - image_path:
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Maybe Projects"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path:
-    title: "Maybe Events"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "customizable"
+    title: "Super customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "fully responsive"
+    title: "Responsive layouts"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "100% free"
+    title: "100% free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
 ---
 
-{% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
