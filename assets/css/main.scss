@@ -37,12 +37,13 @@
     .archive__item-teaser {
     @include breakpoint($small) {
       max-height: 300px;
-      border-radius: 0;
+      border-radius: 50%;
       margin-bottom: 2em;
     }      
     @include breakpoint($medium) {
       max-height: 200px;
       margin-bottom: 2em;
+      border-radius: 50%;
    }
  }
 }
@@ -99,9 +100,6 @@ border-radius: 4px;
 -webkit-transition: all .2s ease-in-out;
 -o-transition: all .2s ease-in-out;
 transition: all .2s ease-in-out;
-}
-.img-circle {
-border-radius: 50%;
 }
 .page__lead {
     font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
