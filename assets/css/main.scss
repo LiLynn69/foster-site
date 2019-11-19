@@ -34,11 +34,6 @@
   top: 25px;
 }
 .grid__item {
-    .archive__item {
-    position: relative;
-    margin-left: 6em;
-    }
-        
     .archive__item-teaser {
     @include breakpoint($small) {
       max-height: 300px;
@@ -53,7 +48,7 @@
    }
   }
  }
- 
+ margin-left: 6em;
 }
 .page__content h2 {
     padding-bottom: 0.5em;
