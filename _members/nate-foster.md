@@ -1,12 +1,10 @@
 ---
-title: "Nate Foster"
+title: "Nate Foster (Co-Director)"
 layout: member
-excerpt: "Something about Nate here to intice readers."
+excerpt: "Cornell"
 header:
-  image: /assets/img/member.png 
-  teaser: /assets/img/member.png
+  image: <img src="../../assets/img/member.png" class="img-responsive img-circle" alt=""> 
+  teaser: <img src="../../assets/img/member.png" class="img-responsive img-circle" alt="">
 ---
-<img src="../../assets/img/member.png" class="img-responsive img-circle" alt="">
-## PI of group
-
-fdasjkl jkafs jk;lf ajkfs djlksdf jkl jfadslk jafsdlk jlsadf; jlkafsd jlkfsd ljkafs klafsdj l;afsdkj ladfksj afdslkj fasdlk;j asdflkj afdslkj fdsalk jlafsdkj l;kdfsaj lkafsdj ladfksjalsdfkjadflsjk
+## Cornell
+something more here? Add social icons?
