@@ -39,16 +39,12 @@
       max-height: 300px;
       border-radius: 0;
       margin-bottom: 2em;
-    }
-        
-
+    }      
     @include breakpoint($medium) {
       max-height: 200px;
       margin-bottom: 2em;
    }
-  }
  }
- margin-left: 6em;
 }
 .page__content h2 {
     padding-bottom: 0.5em;
