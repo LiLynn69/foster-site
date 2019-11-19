@@ -7,6 +7,9 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dirt' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.site-logo img {
+  max-height: 1.5rem;
+}
 .feature__wrapper {
     clear: both;
     margin-bottom: 2em;
@@ -31,6 +34,11 @@
   top: 25px;
 }
 .grid__item {
+    .archive__item {
+    position: relative;
+    margin-left: 6em;
+    }
+        
     .archive__item-teaser {
     @include breakpoint($small) {
       max-height: 300px;
@@ -42,9 +50,11 @@
     @include breakpoint($medium) {
       max-height: 200px;
       margin-bottom: 2em;
-    }
+   }
   }
  }
+ 
+}
 .page__content h2 {
     padding-bottom: 0.5em;
     border-bottom: 0px solid #d1d0ce!important;
