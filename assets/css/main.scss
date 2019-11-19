@@ -26,13 +26,13 @@
     background-color: #d1d0ce!important;
     border-bottom: none;
 }
-.member-img {
+/*.member-img {
   width: 77px;
   border-radius: 120px;
   position: relative;
   left: -18px;
   top: 25px;
-}
+}*/
 .grid__item {
     .archive__item-teaser {
     @include breakpoint($small) {
@@ -63,6 +63,17 @@ img[src*='#right'] {
 img[src*='#center'] {
     display: block;
     margin: auto;
+}
+.team-member {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.team-member img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+}
+.img-circle {
+border-radius: 50%;
 }
 .img-responsive,
 .thumbnail > img,
