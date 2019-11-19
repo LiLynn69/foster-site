@@ -36,14 +36,14 @@
 .grid__item {
     .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: 200px;
+      max-height: 300px;
       margin-bottom: 2em;
-      border-radius: 60%;
+      border-radius: 80%;
     }      
     @include breakpoint($medium) {
-      max-height: 150px;
+      max-height: 200px;
       margin-bottom: 1em;
-      border-radius: 50%;
+      border-radius: 70%;
    }
  }
 }
