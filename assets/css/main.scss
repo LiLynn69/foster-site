@@ -36,12 +36,12 @@
 .grid__item {
     .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: 200px;
+      max-height: 300px;
       margin-bottom: 2em;
       border-radius: 50%;
     }      
     @include breakpoint($medium) {
-      max-height: 150px;
+      max-height: 200px;
       margin-bottom: 1em;
       border-radius: 50%;
    }
@@ -72,10 +72,9 @@ img[src*='#center'] {
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
-    border-radius: 50%;
 }
 .img-circle {
-border-radius: 50%;
+    border-radius: 50%;
 }
 .img-responsive,
 .thumbnail > img,
@@ -87,7 +86,7 @@ max-width: 100%;
 height: auto;
 }
 .img-rounded {
-border-radius: 6px;
+border-radius: 30px;
 }
 .img-thumbnail {
 display: inline-block;
