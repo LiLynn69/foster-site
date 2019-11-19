@@ -12,6 +12,6 @@ sort_by: title
 header:
   overlay_color: "#050505"
   overlay_filter: "0.2"
-  overlay_image: /assets/img/nate.jpg
+  overlay_image: /assets/img/ivy.jpg
 ---
 
