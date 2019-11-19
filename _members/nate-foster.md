@@ -7,6 +7,6 @@ header:
   image: /assets/img/member.png 
   teaser: /assets/img/member.png
 ---
-<img src="../../assets/img/member.png" class=“align-left” class="img-responsive img-circle" alt="">
+![left-aligned-image](../../assets/img/member.png){: .align-left}{: .img-responsive}{: .img-circle} 
 ## Cornell
 something more here? Add social icons?
