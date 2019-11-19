@@ -37,13 +37,11 @@
     .archive__item-teaser {
     @include breakpoint($small) {
       max-height: 300px;
-      border-radius: 50%;
       margin-bottom: 2em;
     }      
     @include breakpoint($medium) {
       max-height: 200px;
       margin-bottom: 2em;
-      border-radius: 50%;
    }
  }
 }
