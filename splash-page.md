@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/img/ivy.jpg
 excerpt: >
-  The Network Programming Initiative supports research on languages, algorithms, and tools for network programming, and facilitates closer interactions with partners in industry and government. For more details, read our [whitepaper pdf](/foster-site/papers/npi-whitepaper.pdf). type="center"
+  The Network Programming Initiative supports research on languages, algorithms, and tools for network programming, and facilitates closer interactions with partners in industry and government. For more details, read our [whitepaper pdf](/foster-site/papers/npi-whitepaper.pdf).
 intro: 
   - excerpt: 'The Network Programming Initiative supports research on languages, algorithms, and tools for network programming, and facilitates closer interactions with partners in industry and government. For more details, read our [whitepaper (pdf)](/../../papers/npi-whitepaper.pdf).'
 feature_row:
