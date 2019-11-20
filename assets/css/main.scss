@@ -10,7 +10,6 @@
 .site-logo img {
   max-height: 1.8rem;
 }
-
 .site-title {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -20,6 +19,12 @@
   font-weight: bold;
   font-size: 1.7rem;
   z-index: 20;
+}
+.page__lead {
+    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-size: 1.0em;
+    margin-top: 50px;
+    text-align: center;
 }
 .feature__wrapper {
     clear: both;
