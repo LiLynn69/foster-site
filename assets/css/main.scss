@@ -49,6 +49,17 @@
   left: -18px;
   top: 25px;
 }*/
+.archive__item-teaser {
+  position: relative;
+  border-radius: 50%;
+  overflow: hidden;
+
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+}
 .grid__item {
     .archive__item-teaser {
     @include breakpoint($small) {
