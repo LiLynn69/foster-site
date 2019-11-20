@@ -2,8 +2,6 @@
 title: "Network Programming Initiative"
 layout: splash
 permalink: /
-classes: 
- - team-member
 header:
   overlay_color: "#5b6584"
   overlay_filter: "0.0"
