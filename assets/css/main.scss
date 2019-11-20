@@ -47,7 +47,7 @@
   position: relative;
   left: -18px;
   top: 25px;
-}*/
+}
 .archive__item-teaser {
   position: relative;
   overflow: hidden;
@@ -60,7 +60,7 @@
     border: 7px solid #fff;
     border-radius: 50%;
   }
-}
+}*/
 .grid__item {
     .archive__item-teaser {
     @include breakpoint($small) {
