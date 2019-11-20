@@ -7,7 +7,6 @@ entries_layout: grid
 classes:
  - landing
  - wide
- - team-member
 sort_by: title
 header:
   overlay_color: "#050505"
