@@ -24,7 +24,6 @@
     font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     font-size: 1.0em;
     margin-top: 50px;
-    text-align: center;
 }
 .feature__wrapper {
     clear: both;
@@ -52,11 +51,11 @@
 .archive__item-teaser {
   position: relative;
   overflow: hidden;
+  display: block;
+  max-width: 100%;
+  height: auto;
 
   img {
-    display: block;
-    max-width: 100%;
-    height: auto;
     margin: 0 auto;
     border: 7px solid #fff;
     border-radius: 50%;
