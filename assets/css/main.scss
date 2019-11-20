@@ -51,13 +51,15 @@
 }*/
 .archive__item-teaser {
   position: relative;
-  border-radius: 50%;
   overflow: hidden;
 
   img {
     display: block;
     max-width: 100%;
     height: auto;
+    margin: 0 auto;
+    border: 7px solid #fff;
+    border-radius: 50%;
   }
 }
 .grid__item {
