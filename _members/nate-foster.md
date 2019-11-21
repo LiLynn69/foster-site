@@ -1,7 +1,5 @@
 ---
-title: "Nate Foster 
-
-(Co-Director)"
+title: "Nate Foster<br/>(Co-Director)"
 layout: member
 class: team-member
 excerpt: "Cornell"
