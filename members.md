@@ -7,8 +7,7 @@ entries_layout: grid
 classes:
  - landing
  - wide
- - img-circle
- - img-responsive
+ - archive__item-teaser-circle
 sort_by: title
 header:
   overlay_color: "#050505"
