@@ -5,7 +5,6 @@ permalink: /members/
 collection: members
 entries_layout: grid
 classes:
- - landing
  - wide
  - img-circle
  - img-responsive
