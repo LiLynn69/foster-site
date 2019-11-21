@@ -71,21 +71,21 @@
       max-height: 200px;
       margin-bottom: 1em;
    }
- }
-  .archive__item-teaser-circle {
-  position: relative;
-  overflow: hidden;
+ 
+  .circle {
   display: block;
   max-width: 100%;
   height: auto;
 
-  img {
-    margin: 0 auto;
-    border: 7px solid #fff;
-    border-radius: 50%;
+    img {
+      margin: 0 auto;
+      border: 7px solid #fff;
+      border-radius: 50%;
+    }
   }
- }
+ }     
 }
+
 .page__content h2 {
     padding-bottom: 0.5em;
     border-bottom: 0px solid #d1d0ce!important;
