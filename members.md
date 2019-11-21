@@ -6,7 +6,6 @@ collection: members
 entries_layout: grid
 classes:
  - landing
- - wide
 sort_by: title
 header:
   overlay_color: "#050505"
