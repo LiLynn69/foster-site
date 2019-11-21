@@ -3,9 +3,9 @@ title: "Nate Foster"
 title:
 layout: member
 class: team-member
-excerpt: | 
-  ## (Co-Director)
-  <br>
+excerpt: > 
+  ## (Co-Director) <br/>
+  
   Cornell
 header:
   image: /assets/img/nate.jpg 
