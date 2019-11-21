@@ -3,7 +3,10 @@ title: "Nate Foster"
 title:
 layout: member
 class: team-member
-excerpt: "Cornell"
+excerpt: | 
+  ## (Co-Director)
+  <br>
+  Cornell
 header:
   image: /assets/img/nate.jpg 
   teaser: /assets/img/nate.jpg
