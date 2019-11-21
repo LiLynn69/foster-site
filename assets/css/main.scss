@@ -71,18 +71,25 @@
       max-height: 200px;
       margin-bottom: 1em;
    }
- 
-  .circle {
+  }
+.archive__item-teaser {
   display: block;
   max-width: 100%;
   height: auto;
+    @include breakpoint($small) {
+      max-height: 300px;
+      margin-bottom: 2em;
+    }      
+    @include breakpoint($medium) {
+      max-height: 200px;
+      margin-bottom: 1em;
+   }
 
     img {
       margin: 0 auto;
       border: 7px solid #fff;
       border-radius: 50%;
     }
-  }
  }     
 }
 
