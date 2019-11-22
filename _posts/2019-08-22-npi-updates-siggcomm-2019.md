@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "NPI Updates from SIGCOMM 2019"
 excerpt:  Awards, keynote, research papers and more. 
 category: ["news"]
