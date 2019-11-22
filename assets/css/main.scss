@@ -77,6 +77,8 @@
 }*/
   
 .grid__item {
+  margin-left:2em;
+  margin-right:2em;
     .archive__item-teaser {
     @include breakpoint($small) {
       max-height: 300px;
