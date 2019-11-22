@@ -3,7 +3,7 @@ layout: single
 title: "NPI Updates from SIGCOMM 2019"
 excerpt:  Awards, keynote, research papers and more. 
 category: ["news"]
-tags:
+tags: seminars
 header:
   overlay_image: /assets/img/greatwall.png
 ---
