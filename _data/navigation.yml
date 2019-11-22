@@ -15,10 +15,14 @@ docs:
     image_alt: "fake image"
     text: "Something about these links"
     children:
-      - title: "Project One"
-        url: /projects/project1/
-      - title: "Project Two"
-        url: /projects/project2/
+      - title: "Frenetic"
+        url: /projects/Frenetic/
+      - title: "iSDX"
+        url: /projects/iSDX/
+      - title: "Minesweeper"
+        url: /projects/Minesweeper/
+      - title: "NetKAT"
+        url: /projects/NetKAT/
         
 members:
   - title: "Stuff we do"     
