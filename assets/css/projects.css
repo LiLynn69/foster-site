@@ -1,0 +1,13 @@
+.feature__item {
+  .archive__item-teaser {
+    display: block;
+    max-width: 80%;
+    height: auto;
+
+    img {
+      margin: 0 auto;
+      border: 7px solid #fff;
+      border-radius: 50%;
+  }
+ }
+}
