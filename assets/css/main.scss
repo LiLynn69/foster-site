@@ -91,8 +91,17 @@
   }
 }
 .feature__item {
-  margin-left:3em;
-  margin-right:3em;
+  .archive__item-teaser {
+    display: block;
+    max-width: 90%;
+    height: auto;
+
+    img {
+      margin: 0 auto;
+      border: 7px solid #fff;
+      border-radius: 4;
+  }
+ }
 }
 .page__content h2 {
     padding-bottom: 0.5em;
