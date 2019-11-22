@@ -3,8 +3,8 @@ title: "Jennifer Rexford"
 layout: member
 excerpt: "(Co-Director) Princeton"
 header:
-  image: /assets/img/member.png
-  teaser: /assets/img/member.png
+  image: /assets/img/jen.jpg
+  teaser: /assets/img/jen.jpg
 ---
 ![left-aligned-image](../../assets/img/jen.jpg){: .align-left}{: .img-circle}{: .img-responsive} 
 ## Jennifer Rexford
