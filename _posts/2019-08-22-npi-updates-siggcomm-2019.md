@@ -5,8 +5,7 @@ excerpt:  Awards, keynote, research papers and more.
 category: ["news"]
 tags:
 header:
-  image: /assets/img/greatwall.png
-  teaser: /assets/img/greatwall.png
+  overlay_image: /assets/img/greatwall.png
 ---
 
 Many members of the Network Programming Initiative are at SIGCOMM ’19 this week in Beijing, China.
