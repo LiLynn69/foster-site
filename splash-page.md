@@ -2,7 +2,7 @@
 title: "Network Programming Initiative"
 layout: splash
 permalink: /
-class: news
+class: news-img
 header:
   overlay_color: "#5b6584"
   overlay_filter: "0.0"
