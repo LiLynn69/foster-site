@@ -60,8 +60,20 @@
     border-radius: 50%;
   }
  }
-.news img { 
-  border-radius: 4px;
+.news-img { 
+  @include breakpoint($small) {
+      max-height: 300px;
+      margin-bottom: 2em;
+    }      
+    @include breakpoint($medium) {
+      max-height: 200px;
+      margin-bottom: 1em;
+   }
+  
+    img {
+      border-radius: 4px;
+      border: 0px solid #fff;
+  }
 }
   
 /*.grid__item {
