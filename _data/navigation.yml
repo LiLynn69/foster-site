@@ -16,13 +16,13 @@ docs:
     text: "Something about these links"
     children:
       - title: "Frenetic"
-        url: /projects/Frenetic/
+        url: /projects/frenetic/
       - title: "iSDX"
-        url: /projects/iSDX/
+        url: /projects/isdx/
       - title: "Minesweeper"
-        url: /projects/Minesweeper/
+        url: /projects/minesweeper/
       - title: "NetKAT"
-        url: /projects/NetKAT/
+        url: /projects/netkat/
         
 members:
   - title: "Stuff we do"     
