@@ -6,7 +6,7 @@ collection: members
 entries_layout: grid
 classes:
  - landing
-sort_by: title
+sort_by: reverse
 header:
   overlay_color: "#050505"
   overlay_filter: "0.0"
