@@ -95,6 +95,7 @@
     }      
     @include breakpoint($medium) {
       max-height: 200px;
+      max-width: 200px;
       margin-bottom: 1em;
    }
   }
@@ -108,7 +109,7 @@
     img {
       margin: 0 auto;
       border: 7px solid #fff;
-      border-radius: 4;
+      border-radius: 4px;
   }
  }
 }
