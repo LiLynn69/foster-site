@@ -3,13 +3,13 @@ title: Members
 layout: collection
 permalink: /members/
 collection: members
- order:
-  - nate-foster.md
-  - Jennifer-Rexford.md
 entries_layout: grid
 classes:
  - landing
-
+members:
+ order:
+  - nate-foster.md
+  - Jennifer-Rexford.md
 
 header:
   overlay_color: "#050505"
