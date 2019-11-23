@@ -6,7 +6,10 @@ collection: members
 entries_layout: grid
 classes:
  - landing
-sort_by: reverse
+order:
+ - nate-foster.md
+ - Jennifer-Rexford.md
+
 header:
   overlay_color: "#050505"
   overlay_filter: "0.0"
