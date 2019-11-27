@@ -3,6 +3,10 @@ title: Members
 layout: collection
 permalink: /members/
 collection: members
+members:
+  order:
+   - Jennifer-Rexford.md
+   - nate-foster.md
 entries_layout: grid
 classes:
  - landing
