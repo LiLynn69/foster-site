@@ -306,6 +306,9 @@ collections:
   members:
     output: true
     permalink: /:collection/:path/
+  order:
+   - Jennifer-Rexford.md
+   - nate-foster.md
 
 defaults:
   # _members
