@@ -6,7 +6,7 @@ collection: members
 entries_layout: grid
 classes:
  - landing
-members:
+
  order:
   - nate-foster.md
   - Jennifer-Rexford.md
