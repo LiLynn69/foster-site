@@ -5,8 +5,8 @@ permalink: /members/
 collection: members
 members:
   order:
-   - nate-foster.md
    - Jennifer-Rexford.md
+   - nate-foster.md
 entries_layout: grid
 classes:
  - landing
