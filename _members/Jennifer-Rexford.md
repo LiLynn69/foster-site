@@ -2,6 +2,7 @@
 title: "Jennifer Rexford"
 layout: member
 excerpt: "(Co-Director) Princeton"
+order: 1
 header:
   image: /assets/img/jen.jpg
   teaser: /assets/img/jen.jpg
