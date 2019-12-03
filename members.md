@@ -13,4 +13,3 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/img/ivy.jpg
 ---
-{% for c in site.members | sort: 'order' %}{% endfor %}
