@@ -2,7 +2,6 @@
 layout: default
 ---
 
-{% for c in site.members | sort: 'order' %}{% endif %}
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
     {% include breadcrumbs.html %}
