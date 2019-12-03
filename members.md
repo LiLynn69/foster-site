@@ -3,10 +3,6 @@ title: Members
 layout: collection
 permalink: /members/
 collection: members
-members:
-  order:
-   - Jennifer-Rexford.md
-   - nate-foster.md
 entries_layout: grid
 classes:
  - landing
@@ -17,4 +13,3 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/img/ivy.jpg
 ---
-
