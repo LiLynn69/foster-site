@@ -7,6 +7,11 @@ header:
   image: /assets/img/jen.jpg
   teaser: /assets/img/jen.jpg
 ---
+{% assign ordered_pages = site.pages | sort:"order_number" %}
+{% for page in ordered_pages %}
+  <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+{% endfor %}
+
 ![left-aligned-image](../../assets/img/jen.jpg){: .align-left}{: .img-circle}{: .img-responsive} 
 ## Jennifer Rexford
 
