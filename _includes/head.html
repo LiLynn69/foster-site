@@ -30,11 +30,6 @@
   </style>
 <![endif]-->
 
-{% if page.custom_css %}
-    {% for stylesheet in page.custom_css %}
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ projects }}.css">
-    {% endfor %}
-  {% endif %}
 
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}
@@ -46,3 +41,9 @@
     <script src="{{ script_path }}"></script>
   {% endfor %}
 {% endif %}
+
+{% if page.custom_css %}
+    {% for projects in page.custom_css %}
+    <link rel="projects" href="{{ site.baseurl }}/assets/css/{{ projects }}.css" media="screen" type="text/css">
+    {% endfor %}
+  {% endif %}
