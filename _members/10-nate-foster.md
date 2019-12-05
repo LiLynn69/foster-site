@@ -2,7 +2,6 @@
 title: "Nate Foster"
 layout: member
 excerpt: (Co-Director) Cornell
-order_number: 10
 
 header:
   image: /assets/img/nate.jpg 
