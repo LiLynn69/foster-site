@@ -3,7 +3,7 @@ title: Members
 layout: collection
 permalink: /members/
 collection: 
- member:
+ members:
   order:
    - nate-foster.md
    - Jennifer-Rexford.md
