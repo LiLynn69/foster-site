@@ -2,8 +2,7 @@
 title: Members
 layout: collection
 permalink: /members/
-collection: 
- members:
+collection: members
   order:
    - nate-foster.md
    - Jennifer-Rexford.md
