@@ -17,5 +17,5 @@ header:
 
 {% assign ordered_pages = site.pages | sort:"order_number" %}
 {% for page in ordered_pages %}
-  <a href="{{ page.url | relative_url }}">{{ Members }}</a>
+  <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
 {% endfor %}
