@@ -4,7 +4,7 @@ layout: default
 
 {% for projects.css in page.extra_css %}
     <link rel="stylesheet" href="{{ '/assets/css/projects.css' | relative_url }}">
- {% endfor %}
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
@@ -25,3 +25,4 @@ layout: default
     </section>
   </article>
 </div>
+ {% endfor %}
