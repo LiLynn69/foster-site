@@ -24,7 +24,7 @@ docs:
       - title: "NetKAT"
         url: /projects/netkat/
         
-members:
+news:
   - title: "Stuff we do"     
     children:
       - title: "Retreats"
