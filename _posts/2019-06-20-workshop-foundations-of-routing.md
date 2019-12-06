@@ -6,6 +6,7 @@ category: ["news"]
 tags: workshops
 header:
   overlay_image: /assets/img/fibre.jpg
+  teaser: /assets/img/fibre.jpg
 ---
 
 ## OVERVIEW
