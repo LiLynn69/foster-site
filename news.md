@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: posts
 title: "News"
 permalink: /news/
 taxonomy: news
