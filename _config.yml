@@ -317,6 +317,6 @@ defaults:
       author_profile: false
       share: true
       
-      
+teaser: /assets/images/placeholder.jpg   
 
 
