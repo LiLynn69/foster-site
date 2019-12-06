@@ -6,6 +6,7 @@ category: ["news"]
 tags: seminars
 header:
   overlay_image: /assets/img/greatwall.png
+  teaser: /assets/img/greatwall.png
 ---
 
 Many members of the Network Programming Initiative are at SIGCOMM ’19 this week in Beijing, China.
