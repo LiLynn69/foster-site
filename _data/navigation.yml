@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "News"
-    url: /categories/news/
+    url: /news/
   - title: "Members"
     url: /members/
   - title: "Projects"
