@@ -43,7 +43,7 @@
 {% endif %}
 
 {% if page.custom_css %}
-    {% for projects in page.custom_css %}
-    <link rel="projects" href="{{ site.baseurl }}/assets/css/{{ projects }}.css" media="screen" type="text/css">
+    {% for stylesheet in page.custom_css %}
+    <link rel="stylesheet" href="{{ '/assets/css/projects.css' | relative_url }}">
   {% endfor %}
 {% endif %}
