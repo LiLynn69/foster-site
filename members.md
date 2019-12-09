@@ -1,6 +1,6 @@
 ---
 title: Members
-layout: collection
+layout: archive-single
 permalink: /members/
 collection: members
 entries_layout: grid
