@@ -2,7 +2,7 @@
 title: "Nate Foster"
 layout: member
 excerpt: "(Co-Director) Cornell"
-permalink: /nate-foster/
+permalink: /memebers/nate-foster/
 header:
   image: /assets/img/nate.jpg 
   teaser: /assets/img/nate.jpg
