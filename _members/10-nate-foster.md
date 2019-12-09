@@ -2,13 +2,13 @@
 title: "Nate Foster"
 layout: member
 excerpt: "(Co-Director) Cornell"
-permalink: /foster/
+permalink: /nate-foster/
 header:
   image: /assets/img/nate.jpg 
   teaser: /assets/img/nate.jpg
 ---
 
-<img style="float: left;" src="../../assets/img/nate.jpg">
+
 ![left-aligned-image](../../assets/img/nate.jpg){: .align-left}{: .img-circle}{: .img-responsive} 
 ## Cornell
 something more here? Add social icons?
