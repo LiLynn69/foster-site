@@ -1,5 +1,14 @@
 ---
 title: "Jennifer Rexford"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: mailto:your.name@email.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
 layout: member
 excerpt: "(Co-Director) Princeton"
 header:
