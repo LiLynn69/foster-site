@@ -13,7 +13,7 @@ feature_row:
     alt: "mother board"
     title: "News"
     excerpt: "Link to news could go here."
-    url: "/categories/news/"
+    url: "/news/"
     btn_class: "btn--primary"
     btn_label: "Latest news"
   - image_path: /assets/img/structure-light-led-movement-158826.jpg
