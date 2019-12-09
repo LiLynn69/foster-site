@@ -25,10 +25,7 @@ docs:
         url: /projects/netkat/
         
 news:
-  - title: "Stuff we do" 
-    image: https://github.com/LiLynn69/foster-site/assets/img/placeholder.jpg
-    image_alt: ""
-    children:
+  - children:
       - title: "Retreats"
         url: /retreats/
       - title: "Workshops"
