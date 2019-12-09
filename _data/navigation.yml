@@ -12,7 +12,7 @@ main:
 docs:
   - title: "Projects"
     image: /assets/img/natefakelogo.png
-    image_alt: "fake image"
+    image_alt: ""
     text: "Something about these links"
     children:
       - title: "Frenetic"
@@ -26,7 +26,7 @@ docs:
         
 news:
   - title: "Stuff we do" 
-    image: ../../assets/img/placeholder.jpg
+    image: /assets/img/placeholder.jpg
     image_alt: ""
     children:
       - title: "Retreats"
