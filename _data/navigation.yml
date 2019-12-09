@@ -25,7 +25,10 @@ docs:
         url: /projects/netkat/
         
 news:
-  - children:
+  - title: "Stuff we do" 
+    image: /assets/img/placeholder.jpg
+    image_alt: ""
+    children:
       - title: "Retreats"
         url: /retreats/
       - title: "Workshops"
