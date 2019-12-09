@@ -30,6 +30,12 @@
   </style>
 <![endif]-->
 
+{% if page.custom_css %}
+    {% for stylesheet in page.custom_css %}
+    <link rel="stylesheet" href="{{ '/assets/css/projects.css' | absolute_url }}">
+  {% endfor %}
+{% endif %}
+
 
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}
@@ -42,8 +48,4 @@
   {% endfor %}
 {% endif %}
 
-{% if page.custom_css %}
-    {% for stylesheet in page.custom_css %}
-    <link rel="stylesheet" href="{{ '/assets/css/projects.css' | relative_url }}">
-  {% endfor %}
-{% endif %}
+
