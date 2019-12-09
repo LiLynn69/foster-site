@@ -4,6 +4,9 @@ permalink: /projects/minesweeper/
 sidebar:
   nav: "docs"
 title: "Minesweeper"
+excerpt: "A proactive network analysis and bug-finding tool..."
+header:
+  teaser: /assets/img/minesweeper.jpg
 ---
 ![left-aligned-image](../../assets/img/minesweeper.jpg){: .align-left}{: .img-responsive}{: .img-circle}
 
