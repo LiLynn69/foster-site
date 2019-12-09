@@ -317,6 +317,21 @@ defaults:
       author_profile: false
       share: true
       
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      
 teaser: /assets/images/placeholder.jpg   
 
 
