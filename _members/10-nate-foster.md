@@ -8,6 +8,7 @@ header:
   teaser: /assets/img/nate.jpg
 ---
 
+
 ![left-aligned-image](../../assets/img/nate.jpg){: .align-left}{: .img-circle}{: .img-responsive} 
 ## Cornell
 something more here? Add social icons?
