@@ -26,7 +26,7 @@ docs:
         
 news:
   - title: "Stuff we do" 
-    image: /assets/img/placeholder.jpg
+    image: https://github.com/LiLynn69/foster-site/assets/img/placeholder.jpg
     image_alt: ""
     children:
       - title: "Retreats"
