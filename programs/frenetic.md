@@ -6,7 +6,6 @@ sidebar:
 title: "Frenetic"
 excerpt: "Frenetic is a domain-specific programming language for software-defined"
 header:
-  image: /assets/img/frenetic.jpg 
   teaser: /assets/img/frenetic.jpg
 ---
 ![left-aligned-image](../../assets/img/frenetic.jpg){: .align-left}{: .img-responsive}{: .img-circle}
