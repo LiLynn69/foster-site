@@ -2,6 +2,7 @@
 layout: posts
 title: "News"
 permalink: /news/
+taxonomy: news
 sidebar:
    nav: "news"
 classes: wide
