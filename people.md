@@ -1,7 +1,7 @@
 ---
-title: Members
+title: People
 layout: collection
-permalink: /members/
+permalink: /people/
 collection: members
 entries_layout: grid
 classes:
