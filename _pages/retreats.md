@@ -1,6 +1,6 @@
 ---
 title: Retreats
-layout: tag
-permalink: /tags/retreats/
+layout: category
+permalink: /category/retreats/
 taxonomy: retreats
 ---
