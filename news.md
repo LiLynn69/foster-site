@@ -3,7 +3,8 @@ layout: posts
 title: "News"
 permalink: /news/
 sidebar:
- - image: /assets/img/placeholder.jpg
+ - title: Latest News
+   image: /assets/img/placeholder.jpg
   nav: "news"
 classes: wide
 header:
