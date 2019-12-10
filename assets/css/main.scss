@@ -101,11 +101,12 @@
   }
 }
 
-@media (min-width: 64em)
+@media (min-width: 64em){
 .sidebar.sticky {
     overflow-y: auto;
     height: calc(100vh - 2em - 2em);
     margin-right: 10em;
+  }
 }
 /*
 .feature__item {
