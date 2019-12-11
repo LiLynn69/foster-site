@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: "Events"
 permalink: /events/
 taxonomy: Events
