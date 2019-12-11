@@ -300,7 +300,13 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layoust: 
+       - single
+       - categories
+       - tags
+       - category
+       - tag
+
 
 collections:
   members:
