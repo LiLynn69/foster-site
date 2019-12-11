@@ -30,11 +30,11 @@ news:
     image_alt: ""
     children:
       - title: "Retreats"
-        url: /retreats/
+        url: /categories/retreats/
       - title: "Workshops"
-        url: /workshops/
+        url: /categories/workshops/
       - title: "Seminars"
-        url: /seminars/
+        url: /categories/seminars/
 
 
 
