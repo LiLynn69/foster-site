@@ -2,7 +2,7 @@
 layout: posts
 title: "Events"
 permalink: /events/
-taxonomy: events
+taxonomy: Events
 header:
   overlay_image: /assets/img/ivy.jpg
 ---
