@@ -315,7 +315,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-
+  events:
+    output: true
+    permalink: /:collection/:path/
 defaults:
   # _members
   - scope:
@@ -331,6 +333,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: false
+      share: true
+defaults:
+  # _events
+  - scope:
+      path: ""
+      type: events
     values:
       layout: single
       author_profile: false
