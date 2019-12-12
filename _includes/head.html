@@ -32,7 +32,7 @@
 
 {% if page.custom_css %}
     {% for stylesheet in page.custom_css %}
-    <link rel="stylesheet" href="{{ '/assets/css/projects.css' | absolute_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/projects.css' | relative_url }}">
   {% endfor %}
 {% endif %}
 
