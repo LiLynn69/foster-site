@@ -182,6 +182,12 @@ ul.social-buttons {
     margin-bottom: 0
 }
 
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+}
+
 ul.social-buttons li a {
     display: block;
     background-color: #222;
