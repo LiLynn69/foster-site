@@ -27,7 +27,7 @@ feature_row:
     alt: "computer screen"
     title: "People"
     excerpt: "Meet Our Research Team"
-    url: "/members/"
+    url: "/people/"
     btn_class: "btn--primary"
     btn_label: "Our group"      
 ---
