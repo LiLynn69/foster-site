@@ -92,15 +92,11 @@
     @include breakpoint($small) {
       max-height: 300px;
       margin-bottom: 2em;
-       max-width: 50%;
-      height: auto;
     }      
     @include breakpoint($medium) {
       max-height: 200px;
       max-width: 200px;
       margin-bottom: 1em;
-      max-width: 50%;
-      height: auto;
    }
   }
 }
