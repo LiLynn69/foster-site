@@ -1,5 +1,6 @@
 ---
-permalink: test
+title: Test this thing
+permalink: /test
 layout: single
 ---
 
