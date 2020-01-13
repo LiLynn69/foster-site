@@ -259,10 +259,11 @@ ul.social-buttons {
     padding-left: 0;
     margin-left: -5px;
     list-style: none;
+    display: inline-block;
 }
 
 ul.social-buttons li a {
-    display: block;
+    display: inline-block;
     background-color: #222;
     height: 30px;
     width: 30px;
