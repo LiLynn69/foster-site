@@ -34,7 +34,6 @@ classes: landing
 <h2 style="text-align: center;">Amin Vahdat</h2>
 <p style="text-align: center;">Google</p>
 </td>
-</td>
 </tr>
 </tbody>
 </table>
