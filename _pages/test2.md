@@ -1,6 +1,6 @@
 ---
 title: Test this thing
-permalink: /test/
+permalink: /test2/
 layout: member
 ---
 
