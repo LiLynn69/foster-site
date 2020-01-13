@@ -2,6 +2,7 @@
 title: Test this thing
 permalink: /test2/
 layout: collection
+classes: landing
 ---
 
 <table>
