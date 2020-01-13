@@ -3,7 +3,7 @@ title: Test this thing
 permalink: /test2/
 layout: member
 ---
-
+<img class="img-circle">
 <table>
 <tbody>
 <tr>
@@ -36,3 +36,4 @@ layout: member
 </tr>
 </tbody>
 </table>
+</img>
