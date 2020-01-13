@@ -1,7 +1,7 @@
 ---
 title: Test this thing
 permalink: /test/
-layout: single
+layout: member
 ---
 
 <table>
