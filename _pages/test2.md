@@ -7,7 +7,7 @@ layout: splash
 <table>
 <tbody>
 <tr>
-<td><a title="Nate Foster" href="http://www.cs.cornell.edu/~jnfoster/"><img src="{{ site.baseurl }}/assets/img/nate.jpg"/ style="img:border-radius:50%;"></a>
+<td><a title="Nate Foster" href="http://www.cs.cornell.edu/~jnfoster/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" style="img:border-radius:50%;"></a>
 <h2 style="text-align: center;">Nate Foster</h2>
  <p style="text-align: center;">(Co-Director)<br />Cornell University</p>
 </td>
