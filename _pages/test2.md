@@ -29,6 +29,7 @@ classes: landing
 <td style="padding-left:20px;"><a title="Amin Vahdat" href="https://research.google.com/pubs/AminVahdat.html"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" /></a>
 <h2 style="text-align: center;">Amin Vahdat</h2>
 <p style="text-align: center;">Google</p>
+</td>
 <td style="padding-left:20px;"><a title="Amin Vahdat" href="https://research.google.com/pubs/AminVahdat.html"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" /></a>
 <h2 style="text-align: center;">Amin Vahdat</h2>
 <p style="text-align: center;">Google</p>
