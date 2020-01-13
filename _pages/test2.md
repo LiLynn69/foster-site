@@ -1,7 +1,7 @@
 ---
 title: Test this thing
 permalink: /test2/
-layout: splash
+layout: collection
 ---
 
 <table>
