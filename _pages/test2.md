@@ -9,7 +9,7 @@ Together we can do
 <table>
 <tbody>
 <tr>
-<td><a title="Nate Foster" href="http://www.cs.cornell.edu/~jnfoster/"><img src="{{ site.baseurl }}/assets/img/nate.jpg{: .img-circle}{: .img-responsive} " /></a>
+<td><a title="Nate Foster" href="http://www.cs.cornell.edu/~jnfoster/"><img src="{{ site.baseurl }}{: .img-circle}{: .img-responsive}/assets/img/nate.jpg" /></a>
 <h2 style="text-align: center;">Nate Foster</h2>
  <p style="text-align: center;">(Co-Director)<br />Cornell University</p>
 </td>
