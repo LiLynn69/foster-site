@@ -107,7 +107,7 @@ intro:
 <tbody>
 <tr>
 <td class="team-member"><a title="Nate Foster" href="http://www.cs.cornell.edu/~jnfoster/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
-<h3>Nate Foster</h3>
+<h2>Nate Foster</h2>
  <p style="text-align: center;">(Co-Director)<br />Cornell University</p>
  <ul class="list-inline social-buttons" >
                             <li><a href="http://www.cs.cornell.edu/~jnfoster/"><i class="fa fa-home"></i></a></li>
@@ -115,23 +115,38 @@ intro:
                             <li><a href="https://twitter.com/natefoster"><i class="fab fa-twitter"></i></a></li>
                         </ul>
 </td>
-<td style="padding-left:20px;" class="team-member"><a title="Nick McKeown" href="http://yuba.stanford.edu/~nickm/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
-<h3 style="text-align: center;">Nick McKeown</h3>
-<p style="text-align: center;">Stanford University</p>
+<td style="padding-left:20px;" class="team-member"><img src="{{ site.baseurl }}/assets/img/jen.jpg" class="img-responsive img-circle" alt="Jennifer Rexford"/></a>
+<h2 style="text-align: center;">Jennifer Rexford</h2>
+<p style="text-align: center;">(Co-Director)<br />Princeton University</p>
+<ul class="list-inline social-buttons">
+                            <li><a href="http://www.cs.princeton.edu/~jrex/"><i class="fa fa-home"></i></a></li>
+                            <li><a href="mailto:jrex@cs.princeton.edu"><i class="far fa-envelope"></i></a></li>
+                            <li><a href="https://twitter.com/jrexnet"><i class="fab fa-twitter"></i></a></li>
+                        </ul>
 </td>
-<td style="padding-left:20px;" class="team-member"><a title="Guru Parulkar" href="https://www.linkedin.com/in/guruparulkar/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
-<h3 style="text-align: center;">Guru Parulkar</h3>
-<p style="text-align: center;">ONF</p>
+<td style="padding-left:20px;" class="team-member"><img src="{{ site.baseurl }}/assets/img/rachit.jpg" class="img-responsive img-circle" alt="Rachit Agarwal"/></a>
+<h2 style="text-align: center;">Rachit Agarwal</h2>
+<p style="text-align: center;">Cornell</p>
+<ul class="list-inline social-buttons">
+                    <li><a href="http://people.eecs.berkeley.edu/~rachit/"><i class="fa fa-home"></i></a></li>
+                    <li><a href="mailto:ragarwal@berkeley.edu"><i class="far fa-envelope"></i></a></li>
+                    <li><a href="https://twitter.com/_ragarwal_"><i class="fab fa-twitter"></i></a></li>
+                  </ul>
 </td>
-<td style="padding-left:20px;" class="team-member"><a title="Jennifer Rexford" href="http://www.cs.princeton.edu/~jrex/"><img src="{{ site.baseurl }}/assets/img/jen.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
-<h3 style="text-align: center;">Jennifer Rexford</h3>
-<p style="text-align: center;">Princeton University</p>
+<td style="padding-left:20px;" class="team-member"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="Aarti Gupta"/></a>
+<h3 style="text-align: center;">Aarti Gupta</h3>
+<p style="text-align: center;">Princeton</p>
+<ul class="list-inline social-buttons">
+                    <li><a href="https://www.cs.princeton.edu/~aartig/"><i class="fa fa-home"></i></a></li>
+                    <li><a href="mailto:aartig@cs.princeton.edu"><i class="far fa-envelope"></i></a></li>
+                  </ul>
 </td>
+
 </tr>
 <tr>
-<td style="padding-left:20px;" class="team-member"><a title="Amin Vahdat" href="https://research.google.com/pubs/AminVahdat.html"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
+<td style="padding-left:20px;" class="team-member"><a title="Amin Vahdat" href="https://research.google.com/pubs/AminVahdat.html"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
 <h3 style="text-align: center;">Amin Vahdat</h3>
-<p style="text-align: center;">Google</p>
+<p style="text-align: center;">Princton</p>
 </td>
 <td style="padding-left:20px;" class="team-member"><a title="Amin Vahdat" href="https://research.google.com/pubs/AminVahdat.html"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
 <h3 style="text-align: center;">Amin Vahdat</h3>
