@@ -101,7 +101,7 @@ Our interdisciplinary research team combines expertise in algorithms, networking
           </div>
 
 
-## Table version kinda ugly
+
 <table>
 <tbody>
 <tr>
