@@ -55,7 +55,7 @@ header:
               <div class="row">
                 <div class="col-sm-4 col-sm-offset-2">
                     <div class="team-member">
-                        <img src="/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
+                        <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
                         <h4>Nate Foster (Co-Director)</h4>
                         <p class="text-muted">Cornell</p>
                         <ul class="list-inline social-buttons">
