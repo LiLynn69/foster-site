@@ -50,4 +50,91 @@ header:
 </tbody>
 </table>
  </div>
+ 
+ <div class="container">
+              <div class="row">
+                <div class="col-sm-4 col-sm-offset-2">
+                    <div class="team-member">
+                        <img src="img/team/nate.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Nate Foster (Co-Director)</h4>
+                        <p class="text-muted">Cornell</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="http://www.cs.cornell.edu/~jnfoster/"><i class="fa fa-home"></i></a></li>
+                            <li><a href="mailto:jnfoster@cs.cornell.edu"><i class="far fa-envelope"></i></a></li>
+                            <li><a href="https://twitter.com/natefoster"><i class="fab fa-twitter"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/jen.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Jennifer Rexford (Co-Director)</h4>
+                        <p class="text-muted">Princeton</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="http://www.cs.princeton.edu/~jrex/"><i class="fa fa-home"></i></a></li>
+                            <li><a href="mailto:jrex@cs.princeton.edu"><i class="far fa-envelope"></i></a></li>
+                            <li><a href="https://twitter.com/jrexnet"><i class="fab fa-twitter"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-2">
+                <div class="team-member">
+                  <img src="img/team/rachit.jpg" class="img-responsive img-circle" alt="">
+                  <h4>Rachit Agarwal</h4>
+                  <p class="text-muted">Cornell</p>
+                  <ul class="list-inline social-buttons">
+                    <li><a href="http://people.eecs.berkeley.edu/~rachit/"><i class="fa fa-home"></i></a></li>
+                    <li><a href="mailto:ragarwal@berkeley.edu"><i class="far fa-envelope"></i></a></li>
+                    <li><a href="https://twitter.com/_ragarwal_"><i class="fab fa-twitter"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-sm-2">
+                <div class="team-member">
+                  <img src="img/team/aarti.jpg" class="img-responsive img-circle" alt="">
+                  <h4>Aarti Gupta</h4>
+                  <p class="text-muted">Princeton</p>
+                  <ul class="list-inline social-buttons">
+                    <li><a href="https://www.cs.princeton.edu/~aartig/"><i class="fa fa-home"></i></a></li>
+                    <li><a href="mailto:aartig@cs.princeton.edu"><i class="far fa-envelope"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-sm-2">
+                <div class="team-member">
+                  <img src="img/team/dexter.jpg" class="img-responsive img-circle" alt="">
+                  <h4>Dexter Kozen</h4>
+                  <p class="text-muted">Cornell</p>
+                  <ul class="list-inline social-buttons">
+                    <li><a href="https://www.cs.cornell.edu/~kozen/"><i class="fa fa-home"></i></a></li>
+                    <li><a href="mailto:kozen@cs.cornell.edu"><i class="far fa-envelope"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-sm-2">
+                <div class="team-member">
+                  <img src="img/team/vitaly.jpg" class="img-responsive img-circle" alt="">
+                  <h4>Vitaly Shmatikov</h4>
+                  <p class="text-muted">Cornell</p>
+                  <ul class="list-inline social-buttons">
+                    <li><a href="https://www.cs.cornell.edu/~schmat/"><i class="fa fa-home"></i></a></li>
+                    <li><a href="mailto:schmat@cs.cornell.edu"><i class="far fa-envelope"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-sm-2">
+                <div class="team-member">
+                  <img src="img/team/dave.jpg" class="img-responsive img-circle" alt="">
+                  <h4>David Walker</h4>
+                  <p class="text-muted">Princeton</p>
+                  <ul class="list-inline social-buttons">
+                    <li><a href="https://www.cs.princeton.edu/~dpw/"><i class="fa fa-home"></i></a></li>
+                    <li><a href="mailto:dpw@cs.princeton.edu"><i class="far fa-envelope"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+  </div>
 
