@@ -56,7 +56,7 @@ header:
                 <div class="col-sm-4 col-sm-offset-2">
                     <div class="team-member">
                         <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Nate Foster (Co-Director)</h4>
+                        <h2>Nate Foster (Co-Director)</h2>
                         <p class="text-muted">Cornell</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="http://www.cs.cornell.edu/~jnfoster/"><i class="fa fa-home"></i></a></li>
@@ -65,10 +65,10 @@ header:
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-4 col-sm-offset-1">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="/foster-site/assets/img/jen.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Jennifer Rexford (Co-Director)</h4>
+                        <h2>Jennifer Rexford (Co-Director)</h2>
                         <p class="text-muted">Princeton</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="http://www.cs.princeton.edu/~jrex/"><i class="fa fa-home"></i></a></li>
@@ -82,7 +82,7 @@ header:
               <div class="col-sm-2">
                 <div class="team-member">
                   <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
-                  <h4>Rachit Agarwal</h4>
+                  <h2>Rachit Agarwal</h2>
                   <p class="text-muted">Cornell</p>
                   <ul class="list-inline social-buttons">
                     <li><a href="http://people.eecs.berkeley.edu/~rachit/"><i class="fa fa-home"></i></a></li>
@@ -94,7 +94,7 @@ header:
               <div class="col-sm-2">
                 <div class="team-member">
                   <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
-                  <h4>Aarti Gupta</h4>
+                  <h2>Aarti Gupta</h2>
                   <p class="text-muted">Princeton</p>
                   <ul class="list-inline social-buttons">
                     <li><a href="https://www.cs.princeton.edu/~aartig/"><i class="fa fa-home"></i></a></li>
@@ -105,7 +105,7 @@ header:
               <div class="col-sm-2">
                 <div class="team-member">
                   <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
-                  <h4>Dexter Kozen</h4>
+                  <h2>Dexter Kozen</h2>
                   <p class="text-muted">Cornell</p>
                   <ul class="list-inline social-buttons">
                     <li><a href="https://www.cs.cornell.edu/~kozen/"><i class="fa fa-home"></i></a></li>
@@ -116,7 +116,7 @@ header:
               <div class="col-sm-2">
                 <div class="team-member">
                   <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
-                  <h4>Vitaly Shmatikov</h4>
+                  <h2>Vitaly Shmatikov</h2>
                   <p class="text-muted">Cornell</p>
                   <ul class="list-inline social-buttons">
                     <li><a href="https://www.cs.cornell.edu/~schmat/"><i class="fa fa-home"></i></a></li>
@@ -127,7 +127,7 @@ header:
               <div class="col-sm-2">
                 <div class="team-member">
                   <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
-                  <h4>David Walker</h4>
+                  <h2>David Walker</h2>
                   <p class="text-muted">Princeton</p>
                   <ul class="list-inline social-buttons">
                     <li><a href="https://www.cs.princeton.edu/~dpw/"><i class="fa fa-home"></i></a></li>
