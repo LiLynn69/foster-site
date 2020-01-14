@@ -102,11 +102,11 @@ intro:
           </div>
 
 
- <div class="container">
+<div class="container">
 <table>
 <tbody>
 <tr>
-<td class="team-member"><a title="Nate Foster" href="http://www.cs.cornell.edu/~jnfoster/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/>
+<td class="team-member"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/>
 <h2>Nate Foster</h2>
  <p style="text-align: center;">(Co-Director)<br />Cornell University</p>
  <ul class="list-inline social-buttons" >
@@ -134,7 +134,7 @@ intro:
                   </ul>
 </td>
 <td style="padding-left:20px;" class="team-member"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="Aarti Gupta"/>
-<h3 style="text-align: center;">Aarti Gupta</h3>
+<h2 style="text-align: center;">Aarti Gupta</h2>
 <p style="text-align: center;">Princeton</p>
 <ul class="list-inline social-buttons">
                     <li><a href="https://www.cs.princeton.edu/~aartig/"><i class="fa fa-home"></i></a></li>
