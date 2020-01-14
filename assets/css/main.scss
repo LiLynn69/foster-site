@@ -152,10 +152,11 @@ img[src*='#center'] {
     border: 7px solid #fff
 }
 
-.team-member h3 {
+.team-member h2 {
     margin-top: 20px;
     margin-bottom: 0;
-    text-transform: none
+    text-transform: none;
+    font-size: $type-size-5;
 }
 
 .team-member p {
