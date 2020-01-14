@@ -56,7 +56,7 @@ header:
                 <div class="col-sm-4 col-sm-offset-2">
                     <div class="team-member">
                         <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
-                        <h2>Nate Foster (Co-Director)</h2>
+                        <h2>Nate Foster<br/>(Co-Director)</h2>
                         <p class="text-muted">Cornell</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="http://www.cs.cornell.edu/~jnfoster/"><i class="fa fa-home"></i></a></li>
@@ -68,7 +68,7 @@ header:
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="/foster-site/assets/img/jen.jpg" class="img-responsive img-circle" alt="">
-                        <h2>Jennifer Rexford (Co-Director)</h2>
+                        <h2>Jennifer Rexford<br/>(Co-Director)</h2>
                         <p class="text-muted">Princeton</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="http://www.cs.princeton.edu/~jrex/"><i class="fa fa-home"></i></a></li>
