@@ -106,7 +106,7 @@ intro:
 <table>
 <tbody>
 <tr>
-<td class="team-member"><a title="Nate Foster" href="http://www.cs.cornell.edu/~jnfoster/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
+<td class="team-member"><a title="Nate Foster" href="http://www.cs.cornell.edu/~jnfoster/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/>
 <h2>Nate Foster</h2>
  <p style="text-align: center;">(Co-Director)<br />Cornell University</p>
  <ul class="list-inline social-buttons" >
@@ -115,7 +115,7 @@ intro:
                             <li><a href="https://twitter.com/natefoster"><i class="fab fa-twitter"></i></a></li>
                         </ul>
 </td>
-<td style="padding-left:20px;" class="team-member"><img src="{{ site.baseurl }}/assets/img/jen.jpg" class="img-responsive img-circle" alt="Jennifer Rexford"/></a>
+<td style="padding-left:20px;" class="team-member"><img src="{{ site.baseurl }}/assets/img/jen.jpg" class="img-responsive img-circle" alt="Jennifer Rexford"/>
 <h2 style="text-align: center;">Jennifer Rexford</h2>
 <p style="text-align: center;">(Co-Director)<br />Princeton University</p>
 <ul class="list-inline social-buttons">
@@ -124,7 +124,7 @@ intro:
                             <li><a href="https://twitter.com/jrexnet"><i class="fab fa-twitter"></i></a></li>
                         </ul>
 </td>
-<td style="padding-left:20px;" class="team-member"><img src="{{ site.baseurl }}/assets/img/rachit.jpg" class="img-responsive img-circle" alt="Rachit Agarwal"/></a>
+<td style="padding-left:20px;" class="team-member"><img src="{{ site.baseurl }}/assets/img/rachit.jpg" class="img-responsive img-circle" alt="Rachit Agarwal"/>
 <h2 style="text-align: center;">Rachit Agarwal</h2>
 <p style="text-align: center;">Cornell</p>
 <ul class="list-inline social-buttons">
@@ -133,7 +133,7 @@ intro:
                     <li><a href="https://twitter.com/_ragarwal_"><i class="fab fa-twitter"></i></a></li>
                   </ul>
 </td>
-<td style="padding-left:20px;" class="team-member"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="Aarti Gupta"/></a>
+<td style="padding-left:20px;" class="team-member"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="Aarti Gupta"/>
 <h3 style="text-align: center;">Aarti Gupta</h3>
 <p style="text-align: center;">Princeton</p>
 <ul class="list-inline social-buttons">
