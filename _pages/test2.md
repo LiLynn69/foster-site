@@ -65,7 +65,6 @@ header:
                         </ul>
                     </div>
                 </div>
-                </div>
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="/foster-site/assets/img/jen.jpg" class="img-responsive img-circle" alt="">
