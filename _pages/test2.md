@@ -124,6 +124,8 @@ Our interdisciplinary research team combines expertise in algorithms, networking
                   </ul>
                 </div>
               </div>
+           </div>
+            <div class="row">
               <div class="col-sm-2">
                 <div class="team-member">
                   <img src="/foster-site/assets/img/dave.jpg" class="img-responsive img-circle" alt="">
