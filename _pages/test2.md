@@ -81,7 +81,7 @@ header:
             <div class="row">
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
+                  <img src="/foster-site/assets/img/rachit.jpg" class="img-responsive img-circle" alt="">
                   <h2>Rachit Agarwal</h2>
                   <p class="text-muted">Cornell</p>
                   <ul class="list-inline social-buttons">
@@ -93,7 +93,7 @@ header:
               </div>
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
+                  <img src="/foster-site/assets/img/aarti.jpg" class="img-responsive img-circle" alt="">
                   <h2>Aarti Gupta</h2>
                   <p class="text-muted">Princeton</p>
                   <ul class="list-inline social-buttons">
@@ -104,7 +104,7 @@ header:
               </div>
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
+                  <img src="/foster-site/assets/img/dexter.jpg" class="img-responsive img-circle" alt="">
                   <h2>Dexter Kozen</h2>
                   <p class="text-muted">Cornell</p>
                   <ul class="list-inline social-buttons">
@@ -115,7 +115,7 @@ header:
               </div>
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
+                  <img src="/foster-site/assets/img/vitaly.jpg" class="img-responsive img-circle" alt="">
                   <h2>Vitaly Shmatikov</h2>
                   <p class="text-muted">Cornell</p>
                   <ul class="list-inline social-buttons">
@@ -126,7 +126,7 @@ header:
               </div>
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
+                  <img src="/foster-site/assets/img/dave.jpg" class="img-responsive img-circle" alt="">
                   <h2>David Walker</h2>
                   <p class="text-muted">Princeton</p>
                   <ul class="list-inline social-buttons">
