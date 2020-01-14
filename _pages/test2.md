@@ -141,9 +141,6 @@ intro:
                     <li><a href="mailto:aartig@cs.princeton.edu"><i class="far fa-envelope"></i></a></li>
                   </ul>
 </td>
-
-</tr>
-<tr>
 <td style="padding-left:20px;" class="team-member"><a title="Amin Vahdat" href="https://research.google.com/pubs/AminVahdat.html"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
 <h3 style="text-align: center;">Amin Vahdat</h3>
 <p style="text-align: center;">Princton</p>
