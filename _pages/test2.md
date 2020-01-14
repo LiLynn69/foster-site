@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/img/ivy.jpg
 ---
 
-## Our interdisciplinary research team combines expertise in algorithms, networking, programming languages, systems, and verification.
+> Our interdisciplinary research team combines expertise in algorithms, networking, programming languages, systems, and verification.
 
 <div class="team-member">
 <table>
