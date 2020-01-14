@@ -55,7 +55,7 @@ header:
               <div class="row">
                 <div class="col-sm-4 col-sm-offset-2">
                     <div class="team-member">
-                        <img src="img/team/nate.jpg" class="img-responsive img-circle" alt="">
+                        <img src="/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
                         <h4>Nate Foster (Co-Director)</h4>
                         <p class="text-muted">Cornell</p>
                         <ul class="list-inline social-buttons">
@@ -67,7 +67,7 @@ header:
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/jen.jpg" class="img-responsive img-circle" alt="">
+                        <img src="/assets/img/jen.jpg" class="img-responsive img-circle" alt="">
                         <h4>Jennifer Rexford (Co-Director)</h4>
                         <p class="text-muted">Princeton</p>
                         <ul class="list-inline social-buttons">
@@ -81,7 +81,7 @@ header:
             <div class="row">
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="img/team/rachit.jpg" class="img-responsive img-circle" alt="">
+                  <img src="/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
                   <h4>Rachit Agarwal</h4>
                   <p class="text-muted">Cornell</p>
                   <ul class="list-inline social-buttons">
@@ -93,7 +93,7 @@ header:
               </div>
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="img/team/aarti.jpg" class="img-responsive img-circle" alt="">
+                  <img src="/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
                   <h4>Aarti Gupta</h4>
                   <p class="text-muted">Princeton</p>
                   <ul class="list-inline social-buttons">
@@ -104,7 +104,7 @@ header:
               </div>
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="img/team/dexter.jpg" class="img-responsive img-circle" alt="">
+                  <img src="/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
                   <h4>Dexter Kozen</h4>
                   <p class="text-muted">Cornell</p>
                   <ul class="list-inline social-buttons">
@@ -115,7 +115,7 @@ header:
               </div>
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="img/team/vitaly.jpg" class="img-responsive img-circle" alt="">
+                  <img src="/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
                   <h4>Vitaly Shmatikov</h4>
                   <p class="text-muted">Cornell</p>
                   <ul class="list-inline social-buttons">
@@ -126,7 +126,7 @@ header:
               </div>
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="img/team/dave.jpg" class="img-responsive img-circle" alt="">
+                  <img src="/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
                   <h4>David Walker</h4>
                   <p class="text-muted">Princeton</p>
                   <ul class="list-inline social-buttons">
