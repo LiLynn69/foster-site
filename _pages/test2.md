@@ -4,12 +4,14 @@ permalink: /test2/
 layout: collection
 classes: landing
 ---
+## Our interdisciplinary research team combines expertise in algorithms, networking, programming languages, systems, and verification.
 
+<div class="team-member">
 <table>
 <tbody>
 <tr>
 <td><a title="Nate Foster" href="http://www.cs.cornell.edu/~jnfoster/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
-<h2 style="text-align: center;">Nate Foster</h2>
+<h3>Nate Foster</h3>
  <p style="text-align: center;">(Co-Director)<br />Cornell University</p>
  <ul class="list-inline social-buttons" >
                             <li><a href="http://www.cs.cornell.edu/~jnfoster/"><i class="fa fa-home"></i></a></li>
@@ -42,4 +44,5 @@ classes: landing
 </tr>
 </tbody>
 </table>
+ </div>
 
