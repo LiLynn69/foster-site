@@ -65,7 +65,7 @@ header:
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-sm-4 col-sm-offset-2"">
                     <div class="team-member">
                         <img src="/foster-site/assets/img/jen.jpg" class="img-responsive img-circle" alt="">
                         <h4>Jennifer Rexford (Co-Director)</h4>
