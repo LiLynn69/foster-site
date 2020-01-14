@@ -14,9 +14,9 @@ Our interdisciplinary research team combines expertise in algorithms, networking
 
  
  <div class="container">
-       <div class="team-member">
               <div class="row">
                 <div class="col-sm-4 col-sm-offset-2">
+                    <div class="team-member">
                         <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
                         <h2>Nate Foster<br/>(Co-Director)</h2>
                         <p class="text-muted">Cornell</p>
@@ -26,7 +26,9 @@ Our interdisciplinary research team combines expertise in algorithms, networking
                             <li><a href="https://twitter.com/natefoster"><i class="fab fa-twitter"></i></a></li>
                         </ul>
                     </div>
+                </div>
                 <div class="col-sm-4">
+                    <div class="team-member">
                         <img src="/foster-site/assets/img/jen.jpg" class="img-responsive img-circle" alt="">
                         <h2>Jennifer Rexford<br/>(Co-Director)</h2>
                         <p class="text-muted">Princeton</p>
@@ -37,8 +39,10 @@ Our interdisciplinary research team combines expertise in algorithms, networking
                         </ul>
                     </div>
                 </div>
+            </div>
             <div class="row">
               <div class="col-sm-2">
+                <div class="team-member">
                   <img src="/foster-site/assets/img/rachit.jpg" class="img-responsive img-circle" alt="">
                   <h2>Rachit Agarwal</h2>
                   <p class="text-muted">Cornell</p>
@@ -48,7 +52,9 @@ Our interdisciplinary research team combines expertise in algorithms, networking
                     <li><a href="https://twitter.com/_ragarwal_"><i class="fab fa-twitter"></i></a></li>
                   </ul>
                 </div>
+              </div>
               <div class="col-sm-2">
+                <div class="team-member">
                   <img src="/foster-site/assets/img/aarti.jpg" class="img-responsive img-circle" alt="">
                   <h2>Aarti Gupta</h2>
                   <p class="text-muted">Princeton</p>
@@ -57,7 +63,9 @@ Our interdisciplinary research team combines expertise in algorithms, networking
                     <li><a href="mailto:aartig@cs.princeton.edu"><i class="far fa-envelope"></i></a></li>
                   </ul>
                 </div>
+              </div>
               <div class="col-sm-2">
+                <div class="team-member">
                   <img src="/foster-site/assets/img/dexter.jpg" class="img-responsive img-circle" alt="">
                   <h2>Dexter Kozen</h2>
                   <p class="text-muted">Cornell</p>
@@ -66,7 +74,9 @@ Our interdisciplinary research team combines expertise in algorithms, networking
                     <li><a href="mailto:kozen@cs.cornell.edu"><i class="far fa-envelope"></i></a></li>
                   </ul>
                 </div>
-                <div class="col-sm-2">
+              </div>
+              <div class="col-sm-2">
+                <div class="team-member">
                   <img src="/foster-site/assets/img/vitaly.jpg" class="img-responsive img-circle" alt="">
                   <h2>Vitaly Shmatikov</h2>
                   <p class="text-muted">Cornell</p>
@@ -75,7 +85,9 @@ Our interdisciplinary research team combines expertise in algorithms, networking
                     <li><a href="mailto:schmat@cs.cornell.edu"><i class="far fa-envelope"></i></a></li>
                   </ul>
                 </div>
-               <div class="col-sm-2">
+              </div>
+              <div class="col-sm-2">
+                <div class="team-member">
                   <img src="/foster-site/assets/img/dave.jpg" class="img-responsive img-circle" alt="">
                   <h2>David Walker</h2>
                   <p class="text-muted">Princeton</p>
@@ -88,11 +100,12 @@ Our interdisciplinary research team combines expertise in algorithms, networking
             </div>
           </div>
 
-<div class="team-member">
+
+
 <table>
 <tbody>
 <tr>
-<td><a title="Nate Foster" href="http://www.cs.cornell.edu/~jnfoster/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
+<td class="team-member"><a title="Nate Foster" href="http://www.cs.cornell.edu/~jnfoster/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
 <h3>Nate Foster</h3>
  <p style="text-align: center;">(Co-Director)<br />Cornell University</p>
  <ul class="list-inline social-buttons" >
@@ -101,29 +114,27 @@ Our interdisciplinary research team combines expertise in algorithms, networking
                             <li><a href="https://twitter.com/natefoster"><i class="fab fa-twitter"></i></a></li>
                         </ul>
 </td>
-<td style="padding-left:20px;"><a title="Nick McKeown" href="http://yuba.stanford.edu/~nickm/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
+<td style="padding-left:20px;" class="team-member"><a title="Nick McKeown" href="http://yuba.stanford.edu/~nickm/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
 <h3 style="text-align: center;">Nick McKeown</h3>
 <p style="text-align: center;">Stanford University</p>
 </td>
-<td style="padding-left:20px;"><a title="Guru Parulkar" href="https://www.linkedin.com/in/guruparulkar/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
+<td style="padding-left:20px;" class="team-member"><a title="Guru Parulkar" href="https://www.linkedin.com/in/guruparulkar/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
 <h3 style="text-align: center;">Guru Parulkar</h3>
 <p style="text-align: center;">ONF</p>
 </td>
-<td style="padding-left:20px;"><a title="Jennifer Rexford" href="http://www.cs.princeton.edu/~jrex/"><img src="{{ site.baseurl }}/assets/img/jen.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
+<td style="padding-left:20px;" class="team-member"><a title="Jennifer Rexford" href="http://www.cs.princeton.edu/~jrex/"><img src="{{ site.baseurl }}/assets/img/jen.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
 <h3 style="text-align: center;">Jennifer Rexford</h3>
 <p style="text-align: center;">Princeton University</p>
 </td>
 </tr>
 <tr>
-<td style="padding-left:20px;"><a title="Amin Vahdat" href="https://research.google.com/pubs/AminVahdat.html"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
+<td style="padding-left:20px;" class="team-member"><a title="Amin Vahdat" href="https://research.google.com/pubs/AminVahdat.html"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
 <h3 style="text-align: center;">Amin Vahdat</h3>
 <p style="text-align: center;">Google</p>
 </td>
-<td style="padding-left:20px;"><a title="Amin Vahdat" href="https://research.google.com/pubs/AminVahdat.html"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
+<td style="padding-left:20px;" class="team-member"><a title="Amin Vahdat" href="https://research.google.com/pubs/AminVahdat.html"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
 <h3 style="text-align: center;">Amin Vahdat</h3>
 <p style="text-align: center;">Google</p>
 </td>
 </tr>
 </tbody>
-</table>
- </div>
