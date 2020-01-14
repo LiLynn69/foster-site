@@ -3,7 +3,12 @@ title: Test this thing
 permalink: /test2/
 layout: collection
 classes: landing
+header:
+  overlay_color: "#050505"
+  overlay_filter: "0.0"
+  overlay_image: /assets/img/ivy.jpg
 ---
+
 ## Our interdisciplinary research team combines expertise in algorithms, networking, programming languages, systems, and verification.
 
 <div class="team-member">
@@ -20,25 +25,25 @@ classes: landing
                         </ul>
 </td>
 <td style="padding-left:20px;"><a title="Nick McKeown" href="http://yuba.stanford.edu/~nickm/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
-<h2 style="text-align: center;">Nick McKeown</h2>
+<h3 style="text-align: center;">Nick McKeown</h3>
 <p style="text-align: center;">Stanford University</p>
 </td>
 <td style="padding-left:20px;"><a title="Guru Parulkar" href="https://www.linkedin.com/in/guruparulkar/"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
-<h2 style="text-align: center;">Guru Parulkar</h2>
+<h3 style="text-align: center;">Guru Parulkar</h3>
 <p style="text-align: center;">ONF</p>
 </td>
 <td style="padding-left:20px;"><a title="Jennifer Rexford" href="http://www.cs.princeton.edu/~jrex/"><img src="{{ site.baseurl }}/assets/img/jen.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
-<h2 style="text-align: center;">Jennifer Rexford</h2>
+<h3 style="text-align: center;">Jennifer Rexford</h3>
 <p style="text-align: center;">Princeton University</p>
 </td>
 </tr>
 <tr>
 <td style="padding-left:20px;"><a title="Amin Vahdat" href="https://research.google.com/pubs/AminVahdat.html"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
-<h2 style="text-align: center;">Amin Vahdat</h2>
+<h3 style="text-align: center;">Amin Vahdat</h3>
 <p style="text-align: center;">Google</p>
 </td>
 <td style="padding-left:20px;"><a title="Amin Vahdat" href="https://research.google.com/pubs/AminVahdat.html"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="Nate Foster"/></a>
-<h2 style="text-align: center;">Amin Vahdat</h2>
+<h3 style="text-align: center;">Amin Vahdat</h3>
 <p style="text-align: center;">Google</p>
 </td>
 </tr>
