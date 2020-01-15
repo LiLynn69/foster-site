@@ -300,7 +300,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layoust: 
+      layout: 
        - single
        - categories
        - tags
@@ -318,6 +318,7 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
+    
 defaults:
   # _members
   - scope:
@@ -337,6 +338,7 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      
 defaults:
   # _events
   - scope:
@@ -347,6 +349,7 @@ defaults:
       author_profile: false
       share: true
       
+//image placeholder for "You also like..."
 teaser: /assets/images/placeholder.jpg   
 
 
