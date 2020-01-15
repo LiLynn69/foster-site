@@ -2,7 +2,7 @@
 layout: collection
 title: "Events"
 permalink: /events/
-collection: projects
+collection: events
 classes:
  - landing
 header:
