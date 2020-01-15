@@ -3,7 +3,6 @@ layout: single
 title: "NPI Retreat 2019"
 excerpt:  NPI organizes Fall 2019 retreat at Cornell Tech campus. 
 categories: 
- - Retreats
 header:
   overlay_image: /assets/img/2018NPI-Group-photo-1.jpg
   teaser: /assets/img/2018NPI-Group-photo-1.jpg
