@@ -4,5 +4,5 @@ layout: category
 permalink: /categories/seminars/
 taxonomy: Seminars
 sidebar:
-  nav: "news"
+  nav: "events"
 ---
