@@ -24,10 +24,8 @@ docs:
       - title: "NetKAT"
         url: /projects/netkat/
         
-news:
-  - title: "Stuff we do" 
-    image: /assets/img/placeholder.jpg
-    image_alt: ""
+events:
+  - title: "Stuff we do"     
     children:
       - title: "Retreats"
         url: /categories/retreats/
