@@ -349,7 +349,7 @@ defaults:
       author_profile: false
       share: true
       
-//image placeholder for "You also like..."
+# image placeholder for "You also like..."
 teaser: /assets/images/placeholder.jpg   
 
 
