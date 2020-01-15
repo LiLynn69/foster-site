@@ -107,7 +107,7 @@ intro:
 <tbody>
 <tr>
 <td class="team-member"><img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="Nate Foster"/>
-<h2>Nate Foster</h2>
+<h3>Nate Foster</h3>
  <p style="text-align: center;">(Co-Director)<br />Cornell University</p>
  <ul class="list-inline social-buttons" >
                             <li><a href="http://www.cs.cornell.edu/~jnfoster/"><i class="fa fa-home"></i></a></li>
@@ -116,7 +116,7 @@ intro:
                         </ul>
 </td>
 <td style="padding-left:20px;" class="team-member"><img src="{{ site.baseurl }}/assets/img/jen.jpg" class="img-responsive img-circle" alt="Jennifer Rexford"/>
-<h2 style="text-align: center;">Jennifer Rexford</h2>
+<h3 style="text-align: center;">Jennifer Rexford</h3>
 <p style="text-align: center;">(Co-Director)<br />Princeton University</p>
 <ul class="list-inline social-buttons">
                             <li><a href="http://www.cs.princeton.edu/~jrex/"><i class="fa fa-home"></i></a></li>
@@ -125,7 +125,7 @@ intro:
                         </ul>
 </td>
 <td style="padding-left:20px;" class="team-member"><img src="{{ site.baseurl }}/assets/img/rachit.jpg" class="img-responsive img-circle" alt="Rachit Agarwal"/>
-<h2 style="text-align: center;">Rachit Agarwal</h2>
+<h3 style="text-align: center;">Rachit Agarwal</h3>
 <p style="text-align: center;">Cornell</p>
 <ul class="list-inline social-buttons">
                     <li><a href="http://people.eecs.berkeley.edu/~rachit/"><i class="fa fa-home"></i></a></li>
@@ -134,7 +134,7 @@ intro:
                   </ul>
 </td>
 <td style="padding-left:20px;" class="team-member"><img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="Aarti Gupta"/>
-<h2 style="text-align: center;">Aarti Gupta</h2>
+<h3 style="text-align: center;">Aarti Gupta</h3>
 <p style="text-align: center;">Princeton</p>
 <ul class="list-inline social-buttons">
                     <li><a href="https://www.cs.princeton.edu/~aartig/"><i class="fa fa-home"></i></a></li>
