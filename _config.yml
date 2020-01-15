@@ -293,6 +293,17 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+ defaults:
+  # _events
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: single
+      author_profile: # true
+      share: true
+      related: true
 
 defaults:
   # _pages
@@ -315,9 +326,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  events:
-    output: true
-    permalink: /:collection/:path/
+  #events:
+    #output: true
+    #permalink: /:collection/:path/
     
 defaults:
   # _members
@@ -338,16 +349,17 @@ defaults:
       layout: single
       author_profile: false
       share: true
-      
-defaults:
+
+
+#defaults:
   # _events
-  - scope:
-      path: ""
-      type: events
-    values:
-      layout: single
-      author_profile: false
-      share: true
+  #- scope:
+   #    path: ""
+   #    type: events
+    # values:
+     #  layout: single
+      # author_profile: false
+      # share: true
       
 # image placeholder for "You also like..."
 teaser: /assets/images/placeholder.jpg   
