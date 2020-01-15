@@ -159,6 +159,8 @@ include:
   - .htaccess
   - _pages
   - _posts
+  - _events
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
