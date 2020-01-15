@@ -151,4 +151,5 @@ intro:
 </td>
 </tr>
 </tbody>
+</table>
 </div>
