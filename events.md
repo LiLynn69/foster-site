@@ -7,8 +7,6 @@ taxonomy:
  - Retreats
  - Seminars
  - Workshops
-sidebar:
-   nav: "events"
 classes:
  - landing
  - wide
