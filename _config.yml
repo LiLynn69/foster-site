@@ -322,6 +322,9 @@ collections:
     output: true
     future: true
     permalink: /:collection/:path/
+  category:
+    output: true
+    
     
 defaults:
   # _members
@@ -350,6 +353,16 @@ defaults:
       type: events
     values:
       layout: single
+      author_profile: false
+      share: true
+      
+defaults:
+  # _catetory
+  - scope:
+      path: ""
+      type: category
+    values:
+      layout: category
       author_profile: false
       share: true
 
