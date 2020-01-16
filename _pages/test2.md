@@ -18,7 +18,7 @@ intro:
               <div class="row">
                 <div class="col-sm-4 col-sm-offset-2">
                     <div class="team-member">
-                        <img src="/foster-site/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
+                        <img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
                         <h2>Nate Foster<br/>(Co-Director)</h2>
                         <p class="text-muted">Cornell</p>
                         <ul class="list-inline social-buttons">
@@ -30,7 +30,7 @@ intro:
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="/foster-site/assets/img/jen.jpg" class="img-responsive img-circle" alt="">
+                        <img src="{{ site.baseurl }}/assets/img/jen.jpg" class="img-responsive img-circle" alt="">
                         <h2>Jennifer Rexford<br/>(Co-Director)</h2>
                         <p class="text-muted">Princeton</p>
                         <ul class="list-inline social-buttons">
@@ -44,7 +44,7 @@ intro:
             <div class="row">
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="/foster-site/assets/img/rachit.jpg" class="img-responsive img-circle" alt="">
+                  <img src="{{ site.baseurl }}/assets/img/rachit.jpg" class="img-responsive img-circle" alt="">
                   <h2>Rachit Agarwal</h2>
                   <p class="text-muted">Cornell</p>
                   <ul class="list-inline social-buttons">
@@ -56,7 +56,7 @@ intro:
               </div>
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="/foster-site/assets/img/aarti.jpg" class="img-responsive img-circle" alt="">
+                  <img src="{{ site.baseurl }}/assets/img/aarti.jpg" class="img-responsive img-circle" alt="">
                   <h2>Aarti Gupta</h2>
                   <p class="text-muted">Princeton</p>
                   <ul class="list-inline social-buttons">
@@ -67,7 +67,7 @@ intro:
               </div>
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="/foster-site/assets/img/dexter.jpg" class="img-responsive img-circle" alt="">
+                  <img src="{{ site.baseurl }}/assets/img/dexter.jpg" class="img-responsive img-circle" alt="">
                   <h2>Dexter Kozen</h2>
                   <p class="text-muted">Cornell</p>
                   <ul class="list-inline social-buttons">
@@ -78,7 +78,7 @@ intro:
               </div>
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="/foster-site/assets/img/vitaly.jpg" class="img-responsive img-circle" alt="">
+                  <img src="{{ site.baseurl }}/assets/img/vitaly.jpg" class="img-responsive img-circle" alt="">
                   <h2>Vitaly Shmatikov</h2>
                   <p class="text-muted">Cornell</p>
                   <ul class="list-inline social-buttons">
@@ -89,7 +89,7 @@ intro:
               </div>
               <div class="col-sm-2">
                 <div class="team-member">
-                  <img src="/foster-site/assets/img/dave.jpg" class="img-responsive img-circle" alt="">
+                  <img src="{{ site.baseurl }}/assets/img/dave.jpg" class="img-responsive img-circle" alt="">
                   <h2>David Walker</h2>
                   <p class="text-muted">Princeton</p>
                   <ul class="list-inline social-buttons">
