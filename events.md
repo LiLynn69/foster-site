@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: posts
 title: "Events"
 permalink: /events/
 collection: events
