@@ -1,6 +1,6 @@
 ---
 title: Retreats
-layout: category
+layout: category-events
 permalink: /categories/retreats/
 collection: events
 taxonomy: Retreats
