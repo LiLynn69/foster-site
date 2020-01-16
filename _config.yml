@@ -352,18 +352,6 @@ defaults:
       author_profile: false
       share: true
 
-
-#defaults:
-  # _events
-  #- scope:
-   #    path: ""
-   #    type: events
-    # values:
-     #  layout: single
-      # author_profile: false
-      # share: true
       
 # image placeholder for "You also like..."
 teaser: /assets/images/placeholder.jpg   
-
-
