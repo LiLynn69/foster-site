@@ -320,6 +320,7 @@ collections:
     permalink: /:collection/:path/
   events:
     output: true
+    future: true
     permalink: /:collection/:path/
     
 defaults:
