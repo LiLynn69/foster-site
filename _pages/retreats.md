@@ -1,7 +1,7 @@
 ---
 title: Retreats
 layout: category
-permalink: /categories/retreats/
+permalink: /events/retreats/
 collection: events
 taxonomy: Retreats
 sidebar:
