@@ -1,5 +1,5 @@
 ---
-layout: events
+layout: posts
 title: "Events"
 permalink: /events/
 taxonomy: 
@@ -10,6 +10,7 @@ sidebar:
    nav: "events"
 classes:
  - landing
+ - wide
 header:
   overlay_image: /assets/img/ivy.jpg
 ---
