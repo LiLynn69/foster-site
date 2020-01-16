@@ -1,8 +1,7 @@
 ---
-layout: posts
+layout: events
 title: "Events"
 permalink: /events/
-collection: events
 taxonomy: 
  - Retreats
  - Seminars
