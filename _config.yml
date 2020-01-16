@@ -297,8 +297,8 @@ defaults:
       related: true
       
  defaults:
-  # _events
-  - scope:
+   # _events
+   - scope:
       path: ""
       type: events
     values:
