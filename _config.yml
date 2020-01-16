@@ -313,10 +313,10 @@ defaults:
 
 collections:
   members:
-    output: false
+    output: true
     permalink: /:collection/:path/
   projects:
-    output: false
+    output: true
     permalink: /:collection/:path/
   events:
     output: true
