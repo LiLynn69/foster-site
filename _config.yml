@@ -296,16 +296,6 @@ defaults:
       share: true
       related: true
       
- defaults:
-   # _events
-   - scope:
-      path: ""
-      type: events
-    values:
-      layout: single
-      author_profile: # true
-      share: true
-      related: true
 
 defaults:
   # _pages
@@ -328,9 +318,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  #events:
-    #output: true
-    #permalink: /:collection/:path/
+  events:
+    output: true
+    permalink: /:collection/:path/
     
 defaults:
   # _members
@@ -349,6 +339,16 @@ defaults:
       type: projects
     values:
       layout: single
+      author_profile: false
+      share: true
+      
+defaults:
+  # _events
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: events
       author_profile: false
       share: true
 
