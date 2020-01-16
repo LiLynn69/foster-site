@@ -348,7 +348,7 @@ defaults:
       path: ""
       type: events
     values:
-      layout: singe
+      layout: single
       author_profile: false
       share: true
 
