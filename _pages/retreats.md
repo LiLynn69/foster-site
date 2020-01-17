@@ -6,4 +6,4 @@ sidebar:
   nav: "events"
 ---
 
-{% assign retreats = site.events | where: "category", "Retreats" %}
+{% assign retreats = site.events | where: "events", "Retreats" %}
