@@ -2,7 +2,6 @@
 title: Projects
 layout: collection
 permalink: /projects/
-collection: projects
 classes:
  - landing
 
@@ -21,25 +20,17 @@ intro:
               <div class="row">
                 <div class="col-sm-4 col-sm-offset-2">
                     <div class="team-member">
-                        <img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
-                        <h2>Nate Foster<br/>(Co-Director)</h2>
-                        <p class="text-muted">Cornell</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="http://www.cs.cornell.edu/~jnfoster/"><i class="fa fa-home"></i></a></li>
-                            <li><a href="mailto:jnfoster@cs.cornell.edu"><i class="far fa-envelope"></i></a></li>
-                            <li><a href="https://twitter.com/natefoster"><i class="fab fa-twitter"></i></a></li>
-                        </ul>
+                        <img src="{{ site.baseurl }}/assets/img/frenetic.jpg" class="img-responsive img-circle" alt="">
                     </div>
                 </div>
                 <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="{{ site.baseurl }}/assets/img/jen.jpg" class="img-responsive img-circle" alt="">
-                        <h2>Jennifer Rexford<br/>(Co-Director)</h2>
-                        <p class="text-muted">Princeton</p>
+                    <div class="team-member">                       
+                        <h2>Frenetic</h2>
+                        <p>Frenetic is a domain-specific programming language for software-defined networks. Distinguishing features of the language include support for modular composition operators and a careful treatment of routing and monitoring.</p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="http://www.cs.princeton.edu/~jrex/"><i class="fa fa-home"></i></a></li>
-                            <li><a href="mailto:jrex@cs.princeton.edu"><i class="far fa-envelope"></i></a></li>
-                            <li><a href="https://twitter.com/jrexnet"><i class="fab fa-twitter"></i></a></li>
+                          <li><a href="http://frenetic-lang.org/"><i class="fa fa-home"></i></a></li>
+                          <li><a href="https://github.com/frenetic-lang/frenetic"><i class="fab fa-github"></i></a></li>
+                          <li><a href="papers/frenetic.pdf"><i class="fa fa-file"></i></a></li>
                         </ul>
                     </div>
                 </div>
