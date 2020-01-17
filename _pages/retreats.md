@@ -10,8 +10,8 @@ sidebar:
 
 {% assign category = page.title|downcase %}
 
-    {% for post in site.events %}
-    {% if post.categories contains {{category}}  %}
-    <li>{{ post.title }}</li>
-    {% endif %}
-    {% endfor %}
+{% for post in site.events %}
+{% if post.categories contains {{Retreats}}  %}
+<li>{{ post.title }}</li>
+{% endif %}
+{% endfor %}
