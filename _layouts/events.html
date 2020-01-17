@@ -27,3 +27,18 @@ layout: archive
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
+
+<!-- create categories array-->
+{% assign categories_array = "" | split:"|" %}
+
+<!--Add each unique 'my_collection' category to the array-->
+{% for post in site.events %}
+    {% for category in post.categories %}
+        {% assign categories_array = categories_array | push: category | uniq %}
+    {% endfor %}
+{% endfor %}
+
+<!--Output the categories-->
+{% for category in categories_array %}
+    {{ category }}
+{% endfor %}
