@@ -28,19 +28,8 @@ layout: archive
   </section>
 {% endfor %}
 
-{%a assign collection  = site.events %}
-
-<!-- create categories array-->
-{% assign categories_array = "" | split:"|" %}
-
-<!--Add each unique 'my_collection' category to the array-->
-{% for post in site.events %}
-    {% for category in post.categories %}
-        {% assign categories_array = categories_array | push: category | uniq %}
-    {% endfor %}
+{%a assign col  = site.events %}
+{% for cat in col %}
+   {{ col.name }}
 {% endfor %}
 
-<!--Output the categories-->
-{% for category in categories_array %}
-    {{ category }}
-{% endfor %}
