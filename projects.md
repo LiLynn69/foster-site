@@ -18,7 +18,7 @@ intro:
 
 <div class="container">
               <div class="row">
-                <div class="col-sm-4 col-sm-offset-2">
+                <div class="col-sm-4 col-sm-offset-3">
                     <div class="team-member">
                         <img src="{{ site.baseurl }}/assets/img/frenetic.jpg" class="img-responsive img-circle" alt="">
                     </div>
