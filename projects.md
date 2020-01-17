@@ -20,7 +20,7 @@ intro:
               <div class="row">
                 <div class="col-sm-4 col-sm-offset-3">
                     <div class="team-member">
-                        <img src="{{ site.baseurl }}/assets/img/frenetic.jpg" class="img-responsive img-circle align-right" alt="">
+                        <img src="{{ site.baseurl }}/assets/img/frenetic.jpg" class="img-responsive img-circle align-right" alt="Frenetic">
                     </div>
                 </div>
                 <div class="col-sm-5">
@@ -38,7 +38,7 @@ intro:
   <div class="row">
             <div class="col-sm-4 col-sm-offset-3">
               <div class="team-member">
-                <img src="{{ site.baseurl }}/assets/img/isdx.jpg" class="img-responsive img-circle" alt="">
+                <img src="{{ site.baseurl }}/assets/img/isdx.jpg" class="img-responsive img-circle" alt="Software-Defined IXP" align-right>
               </div>
             </div>
             <div class="col-sm-5">
@@ -56,7 +56,7 @@ intro:
  <div class="row">
             <div class="col-sm-4 col-sm-offset-3">
               <div class="team-member">
-                <img src="{{ site.baseurl }}/assets/img/minesweeper-sm.jpg" class="img-responsive img-circle" alt="">
+                <img src="{{ site.baseurl }}/assets/img/minesweeper-sm.jpg" class="img-responsive img-circle" alt="Minesweeper" align-right>
               </div>
             </div>
             <div class="col-sm-5">
@@ -73,7 +73,7 @@ intro:
 <div class="row">
             <div class="col-sm-4 col-sm-offset-3">
               <div class="team-member">
-                <img src="{{ site.baseurl }}/assets/img/probnetkat-sm.jpg" class="img-responsive img-circle" alt="">
+                <img src="{{ site.baseurl }}/assets/img/probnetkat-sm.jpg" class="img-responsive img-circle" alt="NetKAT and ProbNetKAT" align-right>
               </div>
             </div> 
 <div class="col-sm-5">
