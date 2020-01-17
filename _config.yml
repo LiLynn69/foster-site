@@ -318,7 +318,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  events:
+  news:
     output: true
     future: true
     permalink: /:collection/:path/
@@ -345,10 +345,10 @@ defaults:
       share: true
       
 defaults:
-  # _events
+  # _news
   - scope:
       path: ""
-      type: events
+      type: news
     values:
       layout: single
       author_profile: false
