@@ -1,6 +1,6 @@
 ---
 title: Retreats
-layout: category
+layout: categories-events
 permalink: /categories/retreats/
 sidebar:
   nav: "events"
