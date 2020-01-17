@@ -30,7 +30,7 @@ intro:
                         <ul class="list-inline social-buttons">
                           <li><a href="http://frenetic-lang.org/"><i class="fa fa-home"></i></a></li>
                           <li><a href="https://github.com/frenetic-lang/frenetic"><i class="fab fa-github"></i></a></li>
-                          <li><a href="papers/frenetic.pdf"><i class="fa fa-file"></i></a></li>
+                          <li><a href="{{ site.baseurl }}/papers/frenetic.pdf"><i class="fa fa-file"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -48,7 +48,7 @@ intro:
                 <ul class="list-inline social-buttons">
                   <li><a href="http://sdx.cs.princeton.edu/"><i class="fa fa-home"></i></a></li>
                   <li><a href="https://github.com/sdn-ixp"><i class="fab fa-github"></i></a></li>
-                  <li><a href="papers/isdx.pdf"><i class="fa fa-file"></i></a></li>
+                  <li><a href="{{ site.baseurl }}/papers/isdx.pdf"><i class="fa fa-file"></i></a></li>
                 </ul>
               </div>
             </div>
@@ -65,7 +65,7 @@ intro:
                  <p>Minesweeper is a proactive network analysis and bug-finding tool. Given a set of network configurations, it automatically performs "what-if" analyses under a range of scenarios, including failures.</p>
                 <ul class="list-inline social-buttons">
                   <li><a href="https://batfish.org/minesweeper/"><i class="fa fa-home"></i></a></li>
-                  <li><a href="papers/minesweeper.pdf"><i class="fa fa-file"></i></a></li>
+                  <li><a href="{{ site.baseurl }}/papers/minesweeper.pdf"><i class="fa fa-file"></i></a></li>
                 </ul>
               </div>
             </div>
@@ -82,7 +82,7 @@ intro:
               <p>NetKAT is a network programming language based on a solid mathematical foundation: Kleene Algebra with Tests (KAT). The language has a sound and complete deductive reasoning system and a decision procedure that can be used to address many practical verification problems. Probabilistic NetKAT adds new constructs for modeling randomized algorithms as well as uncertainy about traffic, failures, etc.</p>
               <ul class="list-inline social-buttons">
                 <li><a href="http://frenetic-lang.org/probnetkat/"><i class="fa fa-home"></i></a></li>
-                <li><a href="papers/netkat.pdf"><i class="fa fa-file"></i></a></li>
+                <li><a href="{{ site.baseurl }}/papers/netkat.pdf"><i class="fa fa-file"></i></a></li>
               </ul>
             </div>
           </div>
