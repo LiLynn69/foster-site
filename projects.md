@@ -38,7 +38,7 @@ intro:
   <div class="row">
             <div class="col-sm-4 col-sm-offset-3">
               <div class="team-member">
-                <img src="{{ site.baseurl }}/assets/img/isdx.jpg" class="img-responsive img-circle" alt="Software-Defined IXP" align-right">
+                <img src="{{ site.baseurl }}/assets/img/isdx.jpg" class="img-responsive img-circle align-right" alt="Software-Defined IXP">
               </div>
             </div>
             <div class="col-sm-5">
@@ -56,7 +56,7 @@ intro:
  <div class="row">
             <div class="col-sm-4 col-sm-offset-3">
               <div class="team-member">
-                <img src="{{ site.baseurl }}/assets/img/minesweeper-sm.jpg" class="img-responsive img-circle" alt="Minesweeper" align-right">
+                <img src="{{ site.baseurl }}/assets/img/minesweeper-sm.jpg" class="img-responsive img-circle align-right" alt="Minesweeper">
               </div>
             </div>
             <div class="col-sm-5">
@@ -73,7 +73,7 @@ intro:
 <div class="row">
             <div class="col-sm-4 col-sm-offset-3">
               <div class="team-member">
-                <img src="{{ site.baseurl }}/assets/img/probnetkat-sm.jpg" class="img-responsive img-circle" alt="NetKAT and ProbNetKAT" align-right">
+                <img src="{{ site.baseurl }}/assets/img/probnetkat-sm.jpg" class="img-responsive img-circle align-right" alt="NetKAT and ProbNetKAT">
               </div>
             </div> 
 <div class="col-sm-5">
