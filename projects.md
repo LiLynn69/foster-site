@@ -56,7 +56,7 @@ intro:
  <div class="row">
             <div class="col-sm-4 col-sm-offset-2">
               <div class="team-member">
-                <img src="{{ site.baseurl }}/assets/img/minesweeper.jpg" class="img-responsive img-circle" alt="">
+                <img src="{{ site.baseurl }}/assets/img/minesweeper-sm.jpg" class="img-responsive img-circle" alt="">
               </div>
             </div>
             <div class="col-sm-5">
@@ -73,7 +73,7 @@ intro:
 <div class="row">
             <div class="col-sm-4 col-sm-offset-2">
               <div class="team-member">
-                <img src="{{ site.baseurl }}/assets/img/probnetkat.jpg" class="img-responsive img-circle" alt="">
+                <img src="{{ site.baseurl }}/assets/img/probnetkat-sm.jpg" class="img-responsive img-circle" alt="">
               </div>
             </div> 
 <div class="col-sm-5">
