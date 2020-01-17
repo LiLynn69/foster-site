@@ -18,7 +18,7 @@ intro:
 
 <div class="container">
               <div class="row">
-                <div class="col-sm-5 col-sm-offset-2">
+                <div class="col-sm-4 col-sm-offset-2">
                     <div class="team-member">
                         <img src="{{ site.baseurl }}/assets/img/frenetic.jpg" class="img-responsive img-circle" alt="">
                     </div>
@@ -36,7 +36,7 @@ intro:
                 </div>
             </div>
   <div class="row">
-            <div class="col-sm-5 col-sm-offset-2">
+            <div class="col-sm-4 col-sm-offset-2">
               <div class="team-member">
                 <img src="{{ site.baseurl }}/assets/img/isdx.jpg" class="img-responsive img-circle" alt="">
               </div>
@@ -54,7 +54,7 @@ intro:
             </div>
           </div>
  <div class="row">
-            <div class="col-sm-5 col-sm-offset-2">
+            <div class="col-sm-4 col-sm-offset-2">
               <div class="team-member">
                 <img src="{{ site.baseurl }}/assets/img/minesweeper.jpg" class="img-responsive img-circle" alt="">
               </div>
@@ -71,7 +71,7 @@ intro:
             </div>
           </div>
 <div class="row">
-            <div class="col-sm-5 col-sm-offset-2">
+            <div class="col-sm-4 col-sm-offset-2">
               <div class="team-member">
                 <img src="{{ site.baseurl }}/assets/img/probnetkat.jpg" class="img-responsive img-circle" alt="">
               </div>
