@@ -1,9 +1,22 @@
 ---
 title: Retreats
-layout: categories
+layout: category
 permalink: /categories/retreats/
 sidebar:
   nav: "events"
 ---
 
+<!-- create categories array-->
+{% assign categories_array = "" | split:"|" %}
 
+<!--Add each unique 'my_collection' category to the array-->
+{% for post in site.events %}
+    {% for category in post.categories %}
+        {% assign categories_array = categories_array | push: category | uniq %}
+    {% endfor %}
+{% endfor %}
+
+<!--Output the categories-->
+{% for category in categories_array %}
+    {{ category }}
+{% endfor %}
