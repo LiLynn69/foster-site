@@ -8,10 +8,4 @@ sidebar:
   nav: "events"
 ---
 
-{% assign category = page.title|downcase %}
-
-{% for post in site.events %}
-{% if post.categories contains {{Retreats}}  %}
-<li>{{ post.title }}</li>
-{% endif %}
-{% endfor %}
+{% assign groups = site.events | group_by: "category" | sort: "Retreats" %}
