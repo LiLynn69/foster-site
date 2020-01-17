@@ -53,3 +53,38 @@ intro:
               </div>
             </div>
           </div>
+ <div class="row">
+            <div class="col-sm-5 col-sm-offset-2">
+              <div class="team-member">
+                <img src="{{ site.baseurl }}/assets/img/minesweeper.jpg" class="img-responsive img-circle" alt="">
+              </div>
+            </div>
+            <div class="col-sm-5">
+              <div class="team-member">
+                 <h2>Minesweeper</h2>
+                 <p>Minesweeper is a proactive network analysis and bug-finding tool. Given a set of network configurations, it automatically performs "what-if" analyses under a range of scenarios, including failures.</p>
+                <ul class="list-inline social-buttons">
+                  <li><a href="https://batfish.org/minesweeper/"><i class="fa fa-home"></i></a></li>
+                  <li><a href="papers/minesweeper.pdf"><i class="fa fa-file"></i></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+<div class="row">
+            <div class="col-sm-5 col-sm-offset-2">
+              <div class="team-member">
+                <img src="{{ site.baseurl }}/assets/img/probnetkat.jpg" class="img-responsive img-circle" alt="">
+              </div>
+            </div> 
+<div class="col-sm-5">
+            <div class="team-member">
+              <h2>NetKAT and ProbNetKAT</h2>
+              <p>NetKAT is a network programming language based on a solid mathematical foundation: Kleene Algebra with Tests (KAT). The language has a sound and complete deductive reasoning system and a decision procedure that can be used to address many practical verification problems. Probabilistic NetKAT adds new constructs for modeling randomized algorithms as well as uncertainy about traffic, failures, etc.</p>
+              <ul class="list-inline social-buttons">
+                <li><a href="http://frenetic-lang.org/probnetkat/"><i class="fa fa-home"></i></a></li>
+                <li><a href="papers/netkat.pdf"><i class="fa fa-file"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
