@@ -20,7 +20,7 @@ intro:
               <div class="row">
                 <div class="col-sm-4 col-sm-offset-3">
                     <div class="team-member">
-                        <img src="{{ site.baseurl }}/assets/img/frenetic.jpg" class="img-responsive img-circle align-left" alt="">
+                        <img src="{{ site.baseurl }}/assets/img/frenetic.jpg" class="img-responsive img-circle align-right" alt="">
                     </div>
                 </div>
                 <div class="col-sm-5">
