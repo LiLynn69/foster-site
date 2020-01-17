@@ -5,8 +5,8 @@ layout: archive
 {{ content }}
 
 <ul class="taxonomy__index">
-  {% assign eventsInYear = site.events | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-  {% for year in eventsInYear %}
+  {% assign newsInYear = site.events | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+  {% for year in newsInYear %}
     <li>
       <a href="#{{ year.name }}">
         <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
@@ -15,8 +15,8 @@ layout: archive
   {% endfor %}
 </ul>
 
-{% assign eventsByYear = site.events | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-{% for year in eventsByYear %}
+{% assign newsByYear = site.events | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in newsByYear %}
   <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ page.entries_layout | default: 'list' }}">
