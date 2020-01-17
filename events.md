@@ -13,3 +13,7 @@ classes:
 header:
   overlay_image: /assets/img/ivy.jpg
 ---
+{%a assign col  = site.events %}
+{% for cat in col %}
+   {{ col.events }}
+{% endfor %}
