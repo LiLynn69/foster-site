@@ -8,4 +8,4 @@ sidebar:
   nav: "events"
 ---
 
-{% assign groups = site.events | group_by: "category" | sort: "Retreats" %}
+{% assign allretreats = site.events | sort: "Retreats" %}
