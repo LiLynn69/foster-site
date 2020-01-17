@@ -8,4 +8,4 @@ sidebar:
   nav: "events"
 ---
 
-{% assign allretreats = site.events | sort: "Retreats" %}
+{% assign retreats = site.events | where: "category", "Retreats" %}
