@@ -156,7 +156,7 @@ img[src*='#center'] {
     margin-top: 20px;
     margin-bottom: 0;
     text-transform: none;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
 }
 
 .team-member p {
@@ -325,6 +325,9 @@ background-color: #fed136
   }
   .col-sm-4 {
     width: 33.33333333%;
+  }
+  .col-sm-5 {
+    width: 36%;
   }
   .col-sm-2 {
     //width: 16.66666667%;
