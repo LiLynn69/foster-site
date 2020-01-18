@@ -1,7 +1,9 @@
 ---
 layout: single
 title: "NPI Updates from SIGCOMM 2019"
-excerpt:  Awards, keynote, research papers and more. 
+excerpt:  Awards, keynote, research papers and more.
+date: 2019-08-22
+author: Nate
 categories: 
  - Seminars
 header:
