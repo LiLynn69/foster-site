@@ -318,10 +318,10 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  events:
+  news:
     output: true
     future: true
-    permalink: /events/:path/
+    permalink: /news/:path/
     
     
 defaults:
@@ -345,7 +345,7 @@ defaults:
       share: true
       
 defaults:
-  # _events
+  # _news
   - values:
       layout: single
       author_profile: false
