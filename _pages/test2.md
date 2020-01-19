@@ -1,7 +1,7 @@
 ---
 title: Test this thing
 permalink: /test2/
-layout: collection
+layout: single
 classes: landing
 header:
   overlay_color: "#050505"
