@@ -7,13 +7,9 @@ classes:
  - wide
 header:
   overlay_image: /assets/img/ivy.jpg
-intro:
-    - excerpt: 'Something about the publications here.'
 ---
 
-{% include feature_row id="intro" type="center" %}
-
-Or put something here at the top.
+Put something here at the top about the groups pubs.
     
 {% assign journals = site.data.publications | where:'type','journal' | sort:'date' | reverse %}
 {% assign conferences = site.data.publications | where:'type','conference' | sort:'date' | reverse %}
