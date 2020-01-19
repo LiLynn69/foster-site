@@ -10,6 +10,8 @@ main:
     url: /events/
   - title: "Publications"
     url: /publications/
+  - title: "Sponsors"
+    url: /sponsors/
     
 docs:
   - title: "Projects"
