@@ -12,8 +12,6 @@ intro:
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-The research community has published a growing number of papers on the design and implementation of networked systems built using P4.
     
 {% assign journals = site.data.publications | where:'type','journal' | sort:'date' | reverse %}
 {% assign conferences = site.data.publications | where:'type','conference' | sort:'date' | reverse %}
