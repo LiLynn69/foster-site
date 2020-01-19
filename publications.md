@@ -12,6 +12,8 @@ intro:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+Or put something here at the top.
     
 {% assign journals = site.data.publications | where:'type','journal' | sort:'date' | reverse %}
 {% assign conferences = site.data.publications | where:'type','conference' | sort:'date' | reverse %}
