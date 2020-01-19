@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Publications"
-permalink: /Publications/
+permalink: /publications/
 classes:
  - landing
  - wide
