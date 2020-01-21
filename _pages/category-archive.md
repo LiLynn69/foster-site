@@ -1,5 +1,5 @@
 ---
-title: "Events by Category"
+title: "Events by Type"
 layout: categories
 permalink: /categories/
 ---
