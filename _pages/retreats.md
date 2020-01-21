@@ -1,5 +1,5 @@
 ---
-title: Retreats
+title: Annual Retreat
 layout: category
 permalink: /categories/retreats/
 taxonomy: Retreats
