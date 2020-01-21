@@ -5,7 +5,7 @@ excerpt:  Awards, keynote, research papers and more.
 date: 2019-08-22
 author: Nate
 categories: 
- - Seminars
+ - Webinars
 header:
   overlay_image: /assets/img/greatwall.png
   teaser: /assets/img/greatwall.png
