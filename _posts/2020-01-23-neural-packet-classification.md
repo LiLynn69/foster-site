@@ -2,7 +2,7 @@
 layout: single
 title: "Neural Packet Classification"
 excerpt:  Awards, keynote, research papers and more.
-date: 2019-08-22
+date: 2020-01-23
 author: Nate Foster
 categories: 
  - Webinars
