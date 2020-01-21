@@ -31,12 +31,13 @@ docs:
 events:
   - title: "Stuff we do"     
     children:
-      - title: "Retreats"
+      - title: "Annual Retreat"
         url: /categories/retreats/
       - title: "Workshops"
         url: /categories/workshops/
-      - title: "Seminars"
-        url: /categories/seminars/
+      - title: "Webinars"
+        url: /categories/hackathons/
+      - title: "Hackathons"
 
 
 
