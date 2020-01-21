@@ -29,7 +29,7 @@ docs:
         url: /projects/netkat/
         
 events:
-  - title: "Events"     
+  - title: "Event Types for now"     
     children:
       - title: "Annual Retreat"
         url: /categories/retreats/
