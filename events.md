@@ -8,7 +8,7 @@ taxonomy:
  - Workshops
 classes:
  - landing
- - wide
+
 sidebar:
   nav: "events"
 header:
