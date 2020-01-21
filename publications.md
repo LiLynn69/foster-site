@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: collections
 title: "Publications"
 permalink: /publications/
 classes:
