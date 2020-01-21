@@ -3,7 +3,7 @@ layout: single
 title: "Workshop on Foundations of Routing 2019"
 excerpt:  NPI organizes Workshop on Foundations of Routing at Cornell University. 
 date: 2019-06-20
-author: Nate
+author: Nate Foster
 categories: 
   - Workshops
 header:
