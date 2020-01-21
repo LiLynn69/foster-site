@@ -9,6 +9,8 @@ taxonomy:
 classes:
  - landing
  - wide
+sidebar:
+  nav: "events"
 header:
   overlay_image: /assets/img/ivy.jpg
 ---
