@@ -36,8 +36,9 @@ events:
       - title: "Workshops"
         url: /categories/workshops/
       - title: "Webinars"
-        url: /categories/hackathons/
+        url: /categories/webinars/
       - title: "Hackathons"
+        url: /categories/hackathons/
 
 
 
