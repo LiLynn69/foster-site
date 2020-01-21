@@ -105,10 +105,10 @@ analytics:
 
 
 # Site Author
- author:
+author:
   name             : "Nate Foster"
-  avatar           : "Co-Director, Cornell"
-  bio              : # "I am an amazing Dad."
+  avatar           : "/assets/img/nate.jpg"
+  bio              : "Co-Director, Cornell"
   location         : # "Somewhere"
   email            : #
   links:
