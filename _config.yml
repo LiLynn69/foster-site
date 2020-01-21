@@ -23,7 +23,7 @@ description              : "An amazing website."
 url                      : "https://lilynn69.github.io"
 baseurl                  : "/foster-site/"
 repository               : "LiLynn69/foster-site"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/placeholder.jpg # path of fallback teaser image
 logo                     : "/assets/img/NPI.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -351,7 +351,3 @@ defaults:
       author_profile: false
       share: true
       
-
-      
-# image placeholder for "You also like..."
-teaser: /assets/images/placeholder.jpg   
