@@ -9,9 +9,9 @@ categories:
  - Webinars
 ---
 
-<strong>Date:</strong> January 23, 2020<br/>
-<strong>Time:</strong> 2:30-3:30pm ET<br/>
-<strong>Video:</strong> Coming soon.
+**Date:** January 23, 2020<br/>
+**Time:** 2:30-3:30pm ET<br/>
+**Video:** Coming soon.
 
  
 ## Abstract
