@@ -2,7 +2,9 @@
 title: Sponsors
 layout: collection
 permalink: /sponsors/
-classes: landing
+classes: 
+  - landing
+  - wide
 header:
   overlay_image: /assets/img/ivy.jpg
 intro:
