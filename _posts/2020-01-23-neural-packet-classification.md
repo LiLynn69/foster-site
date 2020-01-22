@@ -9,10 +9,9 @@ categories:
  - Webinars
 ---
 
-<strong>Date:</strong> January 23, 2020
-<strong>Time:</strong> 2:30-3:30pm ET
+<strong>Date:</strong> January 23, 2020<br/>
+<strong>Time:</strong> 2:30-3:30pm ET<br/>
 <strong>Video:</strong> Coming soon.
-<strong>Date:</strong> January 23, 2020
  
 ## Abstract
 Packet classification is a fundamental problem in computer networking. This
