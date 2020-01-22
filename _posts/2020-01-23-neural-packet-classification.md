@@ -11,7 +11,7 @@ categories:
 
 **Date:** January 23, 2020<br/>
 **Time:** 2:30-3:30pm ET<br/>
-**Video:** <iframe width="560" height="315" src="https://www.youtube.com/embed/xQn2kUWd4Jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Video:** {% include video id="xQn2kUWd4Jg" provider="youtube" %}
 
  
 ## Abstract
