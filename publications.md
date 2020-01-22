@@ -8,7 +8,7 @@ classes:
 header:
   overlay_image: /assets/img/ivy.jpg
 ---
-<div "container">
+<div class="container">
     
 {% assign journals = site.data.publications | where:'type','journal' | sort:'date' | reverse %}
 {% assign conferences = site.data.publications | where:'type','conference' | sort:'date' | reverse %}
