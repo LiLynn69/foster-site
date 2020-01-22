@@ -8,8 +8,7 @@ classes:
 header:
   overlay_image: /assets/img/ivy.jpg
 ---
-
-Put something here at the top about the groups pubs.
+<div "container">
     
 {% assign journals = site.data.publications | where:'type','journal' | sort:'date' | reverse %}
 {% assign conferences = site.data.publications | where:'type','conference' | sort:'date' | reverse %}
@@ -51,3 +50,4 @@ Put something here at the top about the groups pubs.
 {% include publication-dissertation.html %}
 {% endfor %}
 </ul>
+</div>
