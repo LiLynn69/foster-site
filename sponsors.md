@@ -5,9 +5,13 @@ permalink: /sponsors/
 classes: landing
 header:
   overlay_image: /assets/img/ivy.jpg
+intro:
+   - excerpt: 'Our supporters that enable us to keep pushing the limits.'
 ---
 
-## Our supporters that enable us to keep pushing the limits.
+{% include feature_row id="intro" type="center" %}
+
+
 <div class="container">
 <div class="row">
 <div class="members-pics">
