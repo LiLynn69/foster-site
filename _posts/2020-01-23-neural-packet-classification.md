@@ -11,9 +11,8 @@ categories:
 
 **Date:** January 23, 2020<br/>
 **Time:** 2:30-3:30pm ET<br/>
-**Video:** {% include video id="xQn2kUWd4Jg" provider="youtube" %}
+{% include video id="xQn2kUWd4Jg" provider="youtube" %}
 
- 
 ## Abstract
 Packet classification is a fundamental problem in computer networking. This
 problem exposes a hard tradeoff between the computation and state complexity,
