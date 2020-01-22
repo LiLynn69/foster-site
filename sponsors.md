@@ -6,7 +6,7 @@ classes: landing
 header:
   overlay_image: /assets/img/ivy.jpg
 intro:
-   - excerpt: 'Our supporters that enable us to keep pushing the limits.'
+   - excerpt: 'Thanks to our sponsors that enable us to keep pushing the limits.'
 ---
 
 {% include feature_row id="intro" type="center" %}
