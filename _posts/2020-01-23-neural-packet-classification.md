@@ -2,7 +2,7 @@
 layout: single
 title: "Neural Packet Classification"
 excerpt:  January 23, 2020
-date: 2020-01-23
+
 author_profile: true
 author: Jennifer Rexford
 categories: 
