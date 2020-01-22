@@ -13,20 +13,6 @@ categories:
 <strong>Time:</strong> 2:30-3:30pm ET<br/>
 <strong>Video:</strong> Coming soon.
 
-<table>
- <thead>
-  <th>Date:</th>
-  <th>Time:</th>
-  <th>Video:</th>
- </thead>
- <tbody>
-  <tr>
-   <td>January 23, 2020</td>
-   <td>2:30-3:30pm ET</td>
-   <td>Coming Soon.</td>
-  </tr>
- </tbody>
- </table>
  
 ## Abstract
 Packet classification is a fundamental problem in computer networking. This
