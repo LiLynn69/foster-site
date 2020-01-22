@@ -5,14 +5,9 @@ permalink: /sponsors/
 classes: landing
 header:
   overlay_image: /assets/img/ivy.jpg
-intro:
-    - excerpt: 'Our financial supporters that enable us to keep pushing the limits.'
 ---
 
-{% include feature_row id="intro" type="center" %}
-
-
-## Group Sponsors into Types?
+## Our supporters that enable us to keep pushing the limits.
 <ul style="display: inline-block; list-style-type: none;"> 
 <li><a title="3A alliance" href="http://3a-alliance.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-287 size-full" src="{{ site.baseurl }}/assets/img/3a.png" alt="3A alliance" /></a></li>
 <li><a title="ADVA Optical Networking" href="http://www.advaoptical.com" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-287 size-full" src="{{ site.baseurl }}/assets/img/adva.png" alt="ADVA Optical Networking" /></a></li>
