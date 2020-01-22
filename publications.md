@@ -17,35 +17,35 @@ Put something here at the top about the groups pubs.
 {% assign posters = site.data.publications | where:'type','poster' | sort:'date' | reverse %}
 {% assign dissertations = site.data.publications | where:'type','dissertation' | sort:'date' | reverse %}
 
-<h1>Journals</h1>
+<h2>Journals</h2>
 <ul>        
 {% for paper in journals %}
 {% include publication.html %}
 {% endfor %}
 </ul> 
 
-<h1>Conferences</h1>
+<h2>Conferences</h2>
 <ul>        
 {% for paper in conferences %}
 {% include publication.html %}
 {% endfor %}
 </ul> 
 
-<h1>Workshops</h1>
+<h2>Workshops</h2>
 <ul>        
 {% for paper in workshops %}
 {% include publication.html %}
 {% endfor %}
 </ul> 
 
-<h1>Posters</h1>
+<h2>Posters</h2>
 <ul>        
 {% for paper in posters %}
 {% include publication.html %}
 {% endfor %}
 </ul> 
     
-<h1>Dissertations</h1>
+<h2>Dissertations</h2>
 <ul>
 {% for paper in dissertations %}
 {% include publication-dissertation.html %}
