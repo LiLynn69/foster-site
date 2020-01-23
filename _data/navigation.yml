@@ -8,13 +8,15 @@ main:
     url: /projects/
   - title: "Events"
     url: /events/
-    subfolderitems:
-      - page: Annual Retreat
+    subcategories:
+      - subtitle: "Annual Retreat"
         url: /categories/retreats/
-      - page: Workshops
+      - subtitle: "Workshops"
         url: /categories/workshops/
-      - page: Webinars
+      - subtitle: "Webinars"
         url: /categories/webinars/
+      - subtitle: "Hackathons"
+        url: /categories/hackathons/
   - title: "Publications"
     url: /publications/
   - title: "Sponsors"
