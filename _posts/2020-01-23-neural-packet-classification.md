@@ -14,7 +14,7 @@ categories:
 {% include video id="xQn2kUWd4Jg" provider="youtube" %}
 
 <details>
-<h2><summary>Abstract</summary></h2>
+<summary><h2>Abstract</h2></summary>
 
 <p>Packet classification is a fundamental problem in computer networking. This
 problem exposes a hard tradeoff between the computation and state complexity,
