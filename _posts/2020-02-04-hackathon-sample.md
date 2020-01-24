@@ -4,9 +4,8 @@ title: "Sample Hackathon"
 excerpt:  February 4, 2020 
 
 author_profile: true
-author: 
-  - Nate Foster
-  - Jennifer Rexford
+author: Nate Foster
+author: Jennifer Rexford
 categories: 
   - Hackathons
 header:
