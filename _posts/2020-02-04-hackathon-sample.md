@@ -9,7 +9,7 @@ categories:
   - Hackathons
 header:
   overlay_image: /assets/img/fibre.jpg
-  teaser: /assets/img/fibre.jpg
+  teaser: /assets/img/ivy.jpg
 ---
 
 ## Hackathon Sample
