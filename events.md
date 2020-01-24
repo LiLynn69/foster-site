@@ -6,6 +6,7 @@ taxonomy:
  - Retreats
  - Seminars
  - Workshops
+ - Hackathons
 classes:
  - wide
  - landing
