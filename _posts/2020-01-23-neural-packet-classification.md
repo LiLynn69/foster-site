@@ -7,6 +7,8 @@ author_profile: true
 author: Jennifer Rexford
 categories: 
  - Webinars
+header:
+  overlay_image: /assets/img/ivy.jpg
 ---
 
 **Date:** January 23, 2020<br/>
