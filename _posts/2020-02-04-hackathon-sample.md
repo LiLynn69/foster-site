@@ -9,7 +9,6 @@ categories:
   - Hackathons
 header:
   overlay_image: /assets/img/ivy.jpg
-  teaser: /assets/img/ivy.jpg
 ---
 
 ## Hackathon Sample
