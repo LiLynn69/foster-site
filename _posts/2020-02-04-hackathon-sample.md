@@ -8,7 +8,7 @@ author: Nate Foster
 categories: 
   - Hackathons
 header:
-  overlay_image: /assets/img/fibre.jpg
+  overlay_image: /assets/img/ivy.jpg
   teaser: /assets/img/ivy.jpg
 ---
 
