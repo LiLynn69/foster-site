@@ -1,5 +1,5 @@
 ---
-layout: news2
+layout: news
 title: "News"
 permalink: /news/
 classes:
