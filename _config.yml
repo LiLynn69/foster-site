@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "air" # "dirt", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "NETWORK PROGRAMMING INITIATIVE"
 title_separator          : "-"
-name                     : "Nate Foster"
-description              : "An amazing website."
+name                     : "Network Programming Initiative"
+description              : "We support research on languages, algorithms, and tools for network programming, and facilitates chloser interactions with partners in industry and governmenbt."
 url                      : "https://lilynn69.github.io"
 baseurl                  : "/foster-site/"
 repository               : "LiLynn69/foster-site"
@@ -235,16 +235,7 @@ whitelist:
   - jekyll-include-cache
 
 
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+
 category_archive:
   type: liquid
   # type: jekyll-archives
@@ -253,17 +244,7 @@ tag_archive:
   type: liquid
   # type: jekyll-archives
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+
 
 
 # HTML Compression
