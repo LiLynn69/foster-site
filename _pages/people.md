@@ -14,7 +14,7 @@ intro:
  
  <div class="container">
               <div class="row">
-                <div class="col-sm-4 col-sm-offset-2">
+                <div class="col-sm-4 col-sm-offset-2"> <!--Co-Director1-->
                     <div class="team-member">
                         <img src="{{ site.baseurl }}/assets/img/nate.jpg" class="img-responsive img-circle" alt="">
                         <h2>Nate Foster<br/>(Co-Director)</h2>
@@ -26,7 +26,7 @@ intro:
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-sm-4"><!--Co-Director2-->
                     <div class="team-member">
                         <img src="{{ site.baseurl }}/assets/img/jen.jpg" class="img-responsive img-circle" alt="">
                         <h2>Jennifer Rexford<br/>(Co-Director)</h2>
@@ -40,7 +40,7 @@ intro:
                 </div>
             </div>
             <div class="row">
-              <div class="col-sm-2">
+              <div class="col-sm-2"><!--team members-->
                 <div class="team-member">
                   <img src="{{ site.baseurl }}/assets/img/rachit.jpg" class="img-responsive img-circle" alt="">
                   <h2>Rachit Agarwal</h2>
