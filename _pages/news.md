@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: collection
 title: "News"
 permalink: /news/
 classes:
