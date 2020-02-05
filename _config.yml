@@ -282,7 +282,6 @@ defaults:
        - category
        - tag
 
-# not using this, could change to blog?
 collections:
   news:
     output: true
