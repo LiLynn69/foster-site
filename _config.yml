@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "NETWORK PROGRAMMING INITIATIVE"
 title_separator          : "-"
 name                     : "Network Programming Initiative"
-description              : We support research on languages, algorithms, and tools for network programming, and facilitates chloser interactions with partners in industry and governmenbt.
+description              : "We support research on languages, algorithms, and tools for network programming, and facilitates chloser interactions with partners in industry and governmenbt."
 url                      : "https://lilynn69.github.io"
 baseurl                  : "/foster-site/"
 repository               : "LiLynn69/foster-site"
