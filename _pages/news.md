@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: single
 title: "News"
 permalink: /news/
 classes:
@@ -10,3 +10,4 @@ header:
 ---
 
 
+{% include news.html %}
