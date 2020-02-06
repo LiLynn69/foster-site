@@ -8,11 +8,6 @@ layout: default
   {% include page__hero_video.html %}
 {% endif %}
 
-<!--{% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
-{% endif %}-->
 
 <div id="main" role="main">
   {% include sidebar.html %}
@@ -36,11 +31,14 @@ layout: default
       <section class="page__content" itemprop="text">
        
         {{ content }}
+        
+      <!-- Pull in news listing from yml file --> 
         <section id="news">
            <div class="container">
             {% include news.html %}
            </div>          
           </section>
+        
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
