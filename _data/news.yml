@@ -1,0 +1,18 @@
+-
+    title: "NPI Retreat 2019"
+    url: '{{ site.baseurl }}/retreats/npi-retreat-2019/'
+    description: "announced"
+    date: #
+    
+-
+    title: "Sample News item"
+    url: '{{ site.baseurl }}/news/2020-01-01-news-sample-one'
+    description: "(March 2020)"
+    date: #
+    
+-
+    title: "NPI Updates from SIGCOMM 2019"
+    url: '{{ site.baseurl }}/seminars/npi-updates-siggcomm-2019/'
+    description: "announced"
+    date: #
+    
