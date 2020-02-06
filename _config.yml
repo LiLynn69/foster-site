@@ -295,7 +295,7 @@ defaults:
     - scope:
       path: ""
       type: news
-  - values:
+      values:
       layout: single
       author_profile: false
       share: true
