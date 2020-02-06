@@ -9,5 +9,8 @@ header:
   overlay_image: /assets/img/ivy.jpg
 ---
 
-
-{% include news.html %}
+      <section id="news">
+      <div class="container">
+      {% include news.html %}
+        </div>          
+      </section>
