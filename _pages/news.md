@@ -10,6 +10,6 @@ header:
 ---
 <section id="news">
            <div class="container">
-            {% include news.html %}
+            {% include news2.html %}
            </div>          
 </section>
