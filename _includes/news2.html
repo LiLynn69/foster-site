@@ -1,0 +1,9 @@
+<li class="news">
+<span class="title">
+{% if news.url %}<a href="{{ news.url }}">{% endif %}&ldquo;{{ news.title }}.&rdquo;{% if news.url %}</a>{% endif %}
+</span>
+<span class="description">{{ news.description }}.</span>
+<span>
+{{ news.date | date: "%B %Y" }}
+</span>
+</li>
