@@ -8,5 +8,5 @@ classes:
 header:
   overlay_image: /assets/img/ivy.jpg
 ---
-
+{% include news2.html %}
 
